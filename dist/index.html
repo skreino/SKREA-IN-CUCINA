@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#d4ff3f">
+  <meta name="description" content="SKREA IN CUCINA. 76 ricette in italiano: colazioni, pranzi, cene e spuntini. Trova il tuo prossimo piatto e salva i preferiti.">
+  <title>SKREA IN CUCINA · Il ricettario</title>
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="style.css">
+  <script src="recipes.js" defer></script><script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#main">Vai alle ricette</a>
+  <header class="header">
+    <a class="wordmark" href="#" aria-label="SKREA IN CUCINA, tutte le ricette">SKREA<span>IN CUCINA</span></a>
+    <nav aria-label="Navigazione principale"><a href="#" id="catalog-link" class="active">Ricettario</a><a href="#preferiti" id="favorites-link">Preferiti <span id="fav-count">0</span></a><a href="#info" id="info-link">Info utili</a></nav>
+    <span class="header-note">FATTO IN CASA.<br>FATTO A MODO TUO.</span>
+  </header>
+  <main id="main">
+    <div id="catalog">
+      <section class="intro" aria-labelledby="catalog-title">
+        <div><p class="eyebrow">IL TUO RICETTARIO, OGNI GIORNO</p><h1 id="catalog-title">MENO SCUSE.<br><span>PIÙ CUCINA.</span></h1><p class="intro-copy">76 ricette. Ingredienti veri. Scegli cosa ti va.</p></div>
+        <div class="intro-art" aria-hidden="true"><span class="round-note">BUONA ROBA<br>DA CUCINARE ↙</span><img src="images/67.webp" alt="" width="360" height="310" fetchpriority="high"><span class="art-caption">SI PARTE DALLA FAME.</span></div>
+      </section>
+      <section class="catalog-controls" aria-label="Trova una ricetta">
+        <div class="search-row"><label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Cerca una ricetta o un ingrediente…" aria-label="Cerca una ricetta o un ingrediente" autocomplete="off"><kbd aria-hidden="true">/</kbd></label><button class="reset" id="reset">Azzera filtri ↺</button></div>
+        <div class="categories" role="group" aria-label="Categoria"><button data-category="all" aria-pressed="true">Tutte <span>76</span></button><button data-category="colazioni" aria-pressed="false">Colazioni <span>20</span></button><button data-category="pranzo" aria-pressed="false">Pranzo <span>34</span></button><button data-category="cena" aria-pressed="false">Cena <span>34</span></button><button data-category="spuntini" aria-pressed="false">Spuntini <span>42</span></button></div>
+        <div class="filter-row"><p id="results" role="status" aria-live="polite"></p><div class="selects"><label>Gusto <select id="taste"><option value="all">Tutti</option><option value="dolce">Dolce</option><option value="salato">Salato</option></select></label><label>Tempo <select id="time"><option value="all">Qualsiasi</option><option value="15">Fino a 15 min</option><option value="30">Fino a 30 min</option><option value="60">Fino a 60 min</option><option value="over60">Oltre 60 min</option></select></label><label>Ordina <select id="sort"><option value="book">Come nel libro</option><option value="quick">Più veloci</option><option value="az">Nome A–Z</option></select></label></div></div>
+      </section>
+      <section id="grid" class="recipe-grid" aria-label="Ricette"></section>
+      <div id="empty" hidden><span class="empty-mark">OPS.</span><h2>Nessuna ricetta qui.</h2><p id="empty-message">Prova un altro ingrediente o allarga i filtri.</p><button class="primary" id="empty-reset">Mostra tutte le ricette</button></div>
+    </div>
+    <article id="detail" hidden></article>
+    <section id="info" hidden></section>
+    <noscript>Attiva JavaScript nel browser per consultare il ricettario.</noscript>
+  </main>
+  <footer><a class="footer-brand" href="#">SKREA IN CUCINA.</a><p>Il prossimo piatto buono lo fai tu.</p><span>76 RICETTE / ZERO SCUSE</span></footer>
+  <div id="toast" role="status" aria-live="polite"></div>
+</body>
+</html>

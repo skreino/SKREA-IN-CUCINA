@@ -1,0 +1,8 @@
+{
+  "name": "skrea-in-cucina",
+  "version": "1.0.0",
+  "private": true,
+  "description": "76 ricette in italiano. Un ricettario statico, veloce e dal carattere street.",
+  "scripts": {"start": "node scripts/serve.cjs", "test": "node tests/browser.cjs", "check": "node --check dist/app.js"},
+  "devDependencies": {"playwright": "1.62.1"}
+}

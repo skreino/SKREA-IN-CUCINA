@@ -1,0 +1,4361 @@
+window.RECIPES = [
+  {
+    "page": 21,
+    "title": "Porridge agli albumi",
+    "ingredients": [
+      "60 g di avena macinata o farina d'avena al biscotto; in alternativa farina d'avena normale e dolcificante a piacere",
+      "1/2 tazza d'acqua",
+      "540 ml di albumi",
+      "Una stecca di cannella",
+      "Un pizzico di sale",
+      "Scorza di limone",
+      "#Guarnizioni facoltative, non incluse nei macronutrienti",
+      "Frutti rossi",
+      "Un cubetto di cioccolato fondente",
+      "Granola",
+      "Yogurt proteico"
+    ],
+    "steps": [
+      [
+        "Cuoci la base",
+        "Metti la farina d'avena in un pentolino con circa 120 ml d'acqua, la stecca di cannella, la scorza di limone e un pizzico di sale. Porta a bollore e lascia sobbollire finché inizia ad addensarsi."
+      ],
+      [
+        "Aggiungi gli albumi",
+        "Versa gli albumi, abbassa il fuoco e mescola continuamente con una frusta fino a ottenere una consistenza cremosa, simile a una nuvola."
+      ],
+      [
+        "Servi",
+        "Dividi in 3 porzioni e aggiungi le guarnizioni che preferisci, come cioccolato fondente, frutta o frutta a guscio."
+      ],
+      [
+        "Riscalda le porzioni preparate in anticipo",
+        "Al microonde: aggiungi 20–40 ml d'acqua o latte prima di riscaldare per 1–2 minuti e mescola a metà tempo. Sul fornello: scalda a fuoco basso con poca acqua o latte, mescolando finché torna cremoso."
+      ]
+    ],
+    "id": "porridge-agli-albumi",
+    "minutes": 15,
+    "time": "15 min",
+    "portions": 3,
+    "portionLabel": "3 porzioni",
+    "calories": 117,
+    "protein": 12.0,
+    "carbs": 15.0,
+    "fat": 1.5,
+    "image": "images/21.webp",
+    "video": "https://youtube.com/shorts/ln5Q01BQ5-w?feature=share",
+    "sourcePages": [
+      20,
+      21
+    ],
+    "group": "sweet-breakfast",
+    "categories": [
+      "colazioni",
+      "spuntini"
+    ],
+    "taste": "dolce",
+    "label": "Colazione dolce",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 23,
+    "title": "Pancake proteici al tofu",
+    "ingredients": [
+      "200 g di tofu",
+      "140 ml di albumi",
+      "200 g di fiocchi di latte o yogurt",
+      "60 g di fiocchi d'avena",
+      "30 g di cacao magro in polvere",
+      "Un pizzico di sale",
+      "20 g di stevia o altro dolcificante",
+      "#Guarnizione facoltativa, non inclusa nei macronutrienti",
+      "100 g di yogurt magro",
+      "20 g di proteine in polvere al cioccolato"
+    ],
+    "notes": [
+      "Se non ti piace il cioccolato, sostituisci il cacao con farina d'avena."
+    ],
+    "steps": [
+      [
+        "Prepara l'impasto",
+        "Frulla tutti gli ingredienti fino a ottenere un composto liscio."
+      ],
+      [
+        "Prepara la padella",
+        "Scalda una padella con un filo d'olio d'oliva e versa l'impasto formando piccoli dischi."
+      ],
+      [
+        "Cuoci e servi",
+        "Cuoci da entrambi i lati fino a doratura. Se vuoi, servi con una salsa proteica e frutta a piacere."
+      ]
+    ],
+    "id": "pancake-proteici-al-tofu",
+    "minutes": 15,
+    "time": "15 min",
+    "portions": 2,
+    "portionLabel": "2 porzioni",
+    "calories": 389,
+    "protein": 42.2,
+    "carbs": 29.6,
+    "fat": 14.0,
+    "image": "images/23.webp",
+    "video": "https://youtube.com/shorts/Cs8LPmlsw8A?feature=share",
+    "sourcePages": [
+      22,
+      23
+    ],
+    "group": "sweet-breakfast",
+    "categories": [
+      "colazioni",
+      "spuntini"
+    ],
+    "taste": "dolce",
+    "label": "Colazione dolce",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 25,
+    "title": "Muffin alla banana",
+    "ingredients": [
+      "3 banane medie molto mature",
+      "3 uova",
+      "250 g di yogurt magro",
+      "120 g di avena",
+      "100 g di farina d'avena",
+      "1 cucchiaio d'olio d'oliva",
+      "30 g di gocce di cioccolato fondente",
+      "1 cucchiaino di lievito",
+      "Un pizzico di sale",
+      "Dolcificante a piacere, facoltativo"
+    ],
+    "steps": [
+      [
+        "Scalda il forno",
+        "Preriscalda a 180 °C e prepara uno stampo per muffin o una piccola tortiera."
+      ],
+      [
+        "Prepara l'impasto",
+        "Schiaccia bene le banane in una ciotola. Aggiungi gli altri ingredienti e mescola fino a ottenere un composto omogeneo."
+      ],
+      [
+        "Aggiungi il cioccolato",
+        "Incorpora le gocce di cioccolato all'impasto."
+      ],
+      [
+        "Cuoci",
+        "Distribuisci negli stampini e cuoci a 180 °C per circa 30–35 minuti, fino a cottura completa."
+      ]
+    ],
+    "id": "muffin-alla-banana",
+    "minutes": 40,
+    "time": "40 min",
+    "portions": 8,
+    "portionLabel": "8 porzioni",
+    "calories": 197,
+    "protein": 7.4,
+    "carbs": 28.1,
+    "fat": 5.9,
+    "image": "images/25.webp",
+    "video": "https://youtube.com/shorts/2khFsaSxYzs?feature=share",
+    "sourcePages": [
+      24,
+      25
+    ],
+    "group": "sweet-breakfast",
+    "categories": [
+      "colazioni",
+      "spuntini"
+    ],
+    "taste": "dolce",
+    "label": "Colazione dolce",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 27,
+    "title": "Budino di chia al cioccolato",
+    "ingredients": [
+      "30 g di semi di chia",
+      "120 ml di bevanda di mandorla senza zuccheri",
+      "15 g di cacao magro in polvere",
+      "30 g di sciroppo d'acero 0% o altro dolcificante a piacere",
+      "30 g di proteine in polvere al cioccolato, oppure 30 g di farina d'avena o latte scremato in polvere",
+      "1/4 di cucchiaino di estratto di vaniglia, facoltativo",
+      "Un pizzico di sale",
+      "#Guarnizione",
+      "120 g di yogurt greco magro",
+      "15 g di proteine in polvere del gusto preferito, facoltative",
+      "Cacao magro per spolverizzare"
+    ],
+    "steps": [
+      [
+        "Mescola gli ingredienti",
+        "Riunisci tutti gli ingredienti in un contenitore o in una ciotola media e mescola fino a ottenere un composto uniforme."
+      ],
+      [
+        "Regola la consistenza",
+        "Lascia riposare 5 minuti e mescola di nuovo per evitare che i semi si attacchino. Per una consistenza più liscia, frulla il composto."
+      ],
+      [
+        "Metti in frigorifero",
+        "Lascia in frigorifero almeno 1/2 ora, finché assume la consistenza di un budino."
+      ],
+      [
+        "Servi",
+        "Completa con yogurt greco magro e una spolverata di cacao."
+      ]
+    ],
+    "notes": [
+      "Il riepilogo del libro indica 5 minuti di preparazione e 2 ore totali; il procedimento richiede almeno mezz'ora in frigorifero."
+    ],
+    "id": "budino-di-chia-al-cioccolato",
+    "minutes": 120,
+    "time": "2 ore (preparazione: 5 min)",
+    "portions": 2,
+    "portionLabel": "2 porzioni",
+    "calories": 218,
+    "protein": 22.0,
+    "carbs": 16.0,
+    "fat": 7.0,
+    "image": "images/27.webp",
+    "video": "https://youtube.com/shorts/qj8YBp95ARE?feature=share",
+    "sourcePages": [
+      26,
+      27
+    ],
+    "group": "sweet-breakfast",
+    "categories": [
+      "colazioni",
+      "spuntini"
+    ],
+    "taste": "dolce",
+    "label": "Colazione dolce",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 29,
+    "title": "Budino di chia al matcha",
+    "ingredients": [
+      "#Base",
+      "30 g di semi di chia",
+      "120 ml di bevanda di mandorla senza zuccheri",
+      "5 g di matcha in polvere",
+      "30 g di sciroppo d'acero 0% o altro dolcificante a piacere",
+      "#Guarnizione",
+      "120 g di yogurt greco magro",
+      "30 g di proteine in polvere al biscotto, cioccolato bianco o altro gusto; in alternativa yogurt proteico",
+      "Lamponi schiacciati a piacere"
+    ],
+    "steps": [
+      [
+        "Prepara il budino",
+        "Mescola tutti gli ingredienti della base in una ciotola o un contenitore. Lascia riposare 5 minuti, poi mescola di nuovo per evitare che i semi si attacchino."
+      ],
+      [
+        "Fai raffreddare",
+        "Metti in frigorifero almeno 1 ora, fino a ottenere una consistenza cremosa, simile a un budino."
+      ],
+      [
+        "Prepara la copertura",
+        "Mescola lo yogurt greco con le proteine in polvere, facoltative, fino a ottenere una crema liscia. In alternativa usa yogurt proteico già dolcificato senza aggiungere proteine o dolcificante."
+      ],
+      [
+        "Completa",
+        "Dividi il budino in due porzioni, copri con lo yogurt e termina con i lamponi schiacciati."
+      ]
+    ],
+    "id": "budino-di-chia-al-matcha",
+    "minutes": 70,
+    "time": "1 ora 10 min",
+    "portions": 2,
+    "portionLabel": "2 porzioni",
+    "calories": 187,
+    "protein": 18.4,
+    "carbs": 4.9,
+    "fat": 7.9,
+    "image": "images/29.webp",
+    "video": "https://www.youtube.com/shorts/sr78O8u2SyM",
+    "sourcePages": [
+      28,
+      29
+    ],
+    "group": "sweet-breakfast",
+    "categories": [
+      "colazioni",
+      "spuntini"
+    ],
+    "taste": "dolce",
+    "label": "Colazione dolce",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 31,
+    "title": "Panini con gocce di cioccolato",
+    "ingredients": [
+      "4 uova",
+      "200 g di fiocchi di latte",
+      "275 g di farina d'avena; per panini dolci usa quella al biscotto o alla vaniglia",
+      "1 cucchiaino di lievito",
+      "Un pizzico di cannella",
+      "1/4 di tazza di sciroppo d'acero senza zuccheri o altro dolcificante",
+      "60 g di cioccolato fondente a pezzetti o in gocce"
+    ],
+    "steps": [
+      [
+        "Prepara la base",
+        "Frulla i fiocchi di latte con le uova fino a ottenere un composto liscio."
+      ],
+      [
+        "Prepara l'impasto",
+        "In una ciotola unisci il composto agli altri ingredienti e mescola bene."
+      ],
+      [
+        "Forma e cuoci i panini",
+        "Con un cucchiaio forma piccoli panini su una teglia rivestita di carta forno. Cuoci in forno ventilato preriscaldato a 200 °C per circa 20 minuti."
+      ]
+    ],
+    "id": "panini-con-gocce-di-cioccolato",
+    "minutes": 30,
+    "time": "30 min",
+    "portions": 7,
+    "portionLabel": "7 porzioni",
+    "calories": 262,
+    "protein": 14.0,
+    "carbs": 32.0,
+    "fat": 8.0,
+    "image": "images/31.webp",
+    "video": "https://youtube.com/shorts/oxBOq0zZ5qc?feature=share",
+    "sourcePages": [
+      30,
+      31
+    ],
+    "group": "sweet-breakfast",
+    "categories": [
+      "colazioni",
+      "spuntini"
+    ],
+    "taste": "dolce",
+    "label": "Colazione dolce",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 33,
+    "title": "Avena al forno al gusto biscotto",
+    "ingredients": [
+      "2 banane molto mature",
+      "200 g di avena",
+      "60 g di proteine in polvere al biscotto, oppure farina d'avena o latte scremato in polvere",
+      "375 ml di bevanda di mandorla o altro latte",
+      "Cannella in polvere a piacere",
+      "1 cucchiaino di lievito",
+      "20 g di gocce di cioccolato fondente senza zuccheri"
+    ],
+    "steps": [
+      [
+        "Scalda il forno",
+        "Preriscalda il forno a 180 °C e rivesti di carta forno uno stampo 8 × 8, come indicato nel libro."
+      ],
+      [
+        "Prepara l'impasto",
+        "Schiaccia bene le banane in una ciotola capiente. Aggiungi gli altri ingredienti e amalgama."
+      ],
+      [
+        "Versa nello stampo",
+        "Versa l'impasto e livella bene la superficie. Puoi aggiungere altre gocce di cioccolato o guarnizioni."
+      ],
+      [
+        "Cuoci",
+        "Inforna per 35–40 minuti, finché il centro è sodo. Fai raffreddare circa 10 minuti prima di tagliare in 6 quadrati."
+      ]
+    ],
+    "notes": [
+      "La misura dello stampo è riportata nel libro come 8 × 8, senza unità di misura."
+    ],
+    "id": "avena-al-forno-al-gusto-biscotto",
+    "minutes": 50,
+    "time": "50 min",
+    "portions": 6,
+    "portionLabel": "6 porzioni",
+    "calories": 213,
+    "protein": 12.7,
+    "carbs": 33.0,
+    "fat": 4.8,
+    "image": "images/33.webp",
+    "video": "https://youtube.com/shorts/NEmSgtjEHnE?feature=share",
+    "sourcePages": [
+      32,
+      33
+    ],
+    "group": "sweet-breakfast",
+    "categories": [
+      "colazioni",
+      "spuntini"
+    ],
+    "taste": "dolce",
+    "label": "Colazione dolce",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 35,
+    "title": "Avena al forno alle carote",
+    "ingredients": [
+      "200 g di fiocchi d'avena",
+      "2 carote medie grattugiate",
+      "2 banane molto mature",
+      "300 ml di bevanda di mandorla senza zuccheri o altro latte",
+      "2 uova",
+      "Cannella a piacere",
+      "Un pizzico di sale",
+      "#Salsa proteica facoltativa: +57 kcal e 12 g di proteine per porzione",
+      "120 g di yogurt greco 0%",
+      "3 misurini (75 g) di proteine in polvere alla vaniglia",
+      "Latte quanto basta per una consistenza simile a uno sciroppo"
+    ],
+    "steps": [
+      [
+        "Scalda il forno",
+        "Preriscalda a 180 °C e rivesti una teglia con carta forno."
+      ],
+      [
+        "Prepara la base",
+        "Schiaccia bene le banane in una ciotola capiente. Unisci latte e uova e mescola."
+      ],
+      [
+        "Prepara l'impasto",
+        "Aggiungi avena, carote grattugiate e cannella e amalgama bene."
+      ],
+      [
+        "Versa nello stampo",
+        "Versa il composto e livella la superficie."
+      ],
+      [
+        "Cuoci",
+        "Cuoci per 35–40 minuti, finché il centro è sodo. Fai raffreddare circa 10 minuti prima di tagliare in 6 quadrati."
+      ],
+      [
+        "Completa con la salsa",
+        "Mescola yogurt greco e proteine, aggiungendo latte poco per volta fino a ottenere una crema. Versa sopra prima di servire."
+      ]
+    ],
+    "id": "avena-al-forno-alle-carote",
+    "minutes": 50,
+    "time": "50 min",
+    "portions": 6,
+    "portionLabel": "6 porzioni",
+    "calories": 198,
+    "protein": 7.0,
+    "carbs": 30.0,
+    "fat": 3.5,
+    "image": "images/35.webp",
+    "video": "https://youtube.com/shorts/T4iJr31E2Do?feature=share",
+    "sourcePages": [
+      34,
+      35
+    ],
+    "group": "sweet-breakfast",
+    "categories": [
+      "colazioni",
+      "spuntini"
+    ],
+    "taste": "dolce",
+    "label": "Colazione dolce",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 37,
+    "title": "Avena al forno al brownie",
+    "ingredients": [
+      "200 g di fiocchi d'avena",
+      "60 g di cacao magro in polvere",
+      "1 cucchiaino di lievito",
+      "Un pizzico di sale",
+      "300 ml di latte a scelta",
+      "80 ml di sciroppo d'acero 0% o altro dolcificante liquido",
+      "3 uova",
+      "70 g di yogurt greco magro",
+      "10 ml di estratto di vaniglia, facoltativo",
+      "25 g di gocce di cioccolato fondente senza zuccheri",
+      "#Salsa proteica facoltativa",
+      "100 g di yogurt greco magro o yogurt vegetale",
+      "60 g di proteine in polvere al cioccolato o alla vaniglia, oppure latte scremato in polvere",
+      "Latte quanto basta per ottenere una salsa"
+    ],
+    "steps": [
+      [
+        "Scalda il forno",
+        "Preriscalda a 180 °C. Rivesti di carta forno una teglia rettangolare oppure ungila bene con olio d'oliva."
+      ],
+      [
+        "Mescola gli ingredienti secchi",
+        "In una ciotola mescola avena, cacao, lievito e sale."
+      ],
+      [
+        "Prepara l'impasto",
+        "Aggiungi latte, sciroppo d'acero, uova, vaniglia e yogurt greco, indicato come facoltativo nel procedimento. Amalgama bene."
+      ],
+      [
+        "Aggiungi il cioccolato",
+        "Incorpora le gocce di cioccolato, versa nella teglia e distribuiscine altre in superficie."
+      ],
+      [
+        "Cuoci",
+        "Inforna per 30–35 minuti, finché il centro è sodo. Lascia raffreddare circa 10 minuti prima di ricavare 6 quadrati."
+      ],
+      [
+        "Completa, se vuoi",
+        "Per una versione più proteica, aggiungi una copertura di yogurt, proteine in polvere e latte."
+      ]
+    ],
+    "id": "avena-al-forno-al-brownie",
+    "minutes": 50,
+    "time": "50 min",
+    "portions": 6,
+    "portionLabel": "6 porzioni",
+    "calories": 222,
+    "protein": 11.5,
+    "carbs": 29.0,
+    "fat": 7.5,
+    "image": "images/37.webp",
+    "video": "https://youtube.com/shorts/C7Uh-iXF2Aw?feature=share",
+    "sourcePages": [
+      36,
+      37
+    ],
+    "group": "sweet-breakfast",
+    "categories": [
+      "colazioni",
+      "spuntini"
+    ],
+    "taste": "dolce",
+    "label": "Colazione dolce",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 39,
+    "title": "Smoothie bowl al cioccolato",
+    "ingredients": [
+      "2 banane congelate",
+      "400 g di fiocchi di latte, oppure 400 g di tofu vellutato per una versione senza lattosio",
+      "30 g di cacao magro puro al 100%",
+      "Miele o altro dolcificante a piacere, facoltativo"
+    ],
+    "steps": [
+      [
+        "Frulla",
+        "Metti tutti gli ingredienti nel frullatore e lavora fino a ottenere un composto completamente liscio e cremoso."
+      ],
+      [
+        "Servi subito",
+        "Per una versione più morbida e cremosa, consuma subito."
+      ],
+      [
+        "Prepara la versione gelato",
+        "Per una consistenza più soda, versa in un contenitore e congela per 1–2 ore. Se diventa troppo duro, lascialo ammorbidire qualche minuto prima di servire."
+      ]
+    ],
+    "id": "smoothie-bowl-al-cioccolato",
+    "minutes": 5,
+    "time": "5 min",
+    "portions": 4,
+    "portionLabel": "4 porzioni",
+    "calories": 173,
+    "protein": 16.0,
+    "carbs": 21.0,
+    "fat": 2.8,
+    "image": "images/39.webp",
+    "video": "https://youtube.com/shorts/svPJS2gAWnQ?feature=share",
+    "sourcePages": [
+      38,
+      39
+    ],
+    "group": "sweet-breakfast",
+    "categories": [
+      "colazioni",
+      "spuntini"
+    ],
+    "taste": "dolce",
+    "label": "Colazione dolce",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 43,
+    "title": "Bagel alle zucchine",
+    "ingredients": [
+      "1 zucchina media, circa 240 g grattugiata",
+      "180 g di farina di mandorle",
+      "2 uova grandi",
+      "1 cucchiaio di lievito",
+      "Sale, pepe, aglio e cipolla in polvere a piacere",
+      "Semi di sesamo, facoltativi",
+      "Semi di zucca, facoltativi"
+    ],
+    "steps": [
+      [
+        "Scalda il forno",
+        "Preriscalda a 190 °C e rivesti una teglia con carta forno."
+      ],
+      [
+        "Prepara la zucchina",
+        "Grattugiala e strizzala bene con un canovaccio pulito o carta assorbente per eliminare l'acqua in eccesso."
+      ],
+      [
+        "Prepara l'impasto",
+        "In una ciotola capiente unisci zucchina, farina di mandorle, uova, lievito, aglio e cipolla in polvere, sale e pepe. Mescola fino a ottenere un composto omogeneo."
+      ],
+      [
+        "Forma i bagel",
+        "Dividi in 6 porzioni uguali, forma delle palline, pratica un foro al centro e appiattisci leggermente."
+      ],
+      [
+        "Aggiungi i semi",
+        "Disponi sulla teglia e cospargi con semi a piacere."
+      ],
+      [
+        "Cuoci",
+        "Inforna per 25–30 minuti, fino a doratura."
+      ],
+      [
+        "Servi",
+        "Lascia intiepidire qualche minuto prima di servire."
+      ]
+    ],
+    "id": "bagel-alle-zucchine",
+    "minutes": 40,
+    "time": "40 min",
+    "portions": 6,
+    "portionLabel": "6 porzioni",
+    "calories": 198,
+    "protein": 9.5,
+    "carbs": 5.0,
+    "fat": 16.0,
+    "image": "images/43.webp",
+    "video": "https://youtube.com/shorts/dqVYYU_YrR8?feature=share",
+    "sourcePages": [
+      42,
+      43
+    ],
+    "group": "savory-breakfast",
+    "categories": [
+      "colazioni",
+      "spuntini"
+    ],
+    "taste": "salato",
+    "label": "Colazione salata",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 45,
+    "title": "Hot dog di pollo",
+    "ingredients": [
+      "#Salsicce di pollo",
+      "600 g di petto di pollo",
+      "Sale, pepe, paprika e aglio in polvere",
+      "1 uovo",
+      "#Accompagnamento",
+      "8 panini per hot dog",
+      "400 g di patate",
+      "#Facoltativi, non inclusi nei macronutrienti",
+      "Condimenti a piacere: senape, ketchup senza zuccheri, salsa allo yogurt o maionese leggera",
+      "Formaggio grattugiato light"
+    ],
+    "steps": [
+      [
+        "Prepara il composto",
+        "Trita il pollo con l'uovo e le spezie fino a ottenere un impasto liscio."
+      ],
+      [
+        "Forma le salsicce",
+        "Trasferisci una parte del composto sulla pellicola e arrotola strettamente a forma di salsiccia. Chiudi le estremità e congela per almeno 2 ore."
+      ],
+      [
+        "Prepara le patatine",
+        "Sbuccia le patate e tagliale a bastoncini sottili e uniformi. Asciugale bene con carta assorbente: è essenziale per renderle croccanti. Condisci con sale, pepe e aglio in polvere. Cuoci in friggitrice ad aria a 200 °C per 20–25 minuti, scuotendo il cestello a metà cottura, fino a doratura."
+      ],
+      [
+        "Cuoci le salsicce",
+        "Rimuovi la pellicola e cuoci in friggitrice ad aria a 180 °C per 12–15 minuti, girando a metà cottura, finché dorate e cotte all'interno."
+      ],
+      [
+        "Assembla",
+        "Apri i panini a metà, inserisci le salsicce e aggiungi i condimenti preferiti. Servi con le patatine croccanti."
+      ]
+    ],
+    "notes": [
+      "I 40 minuti indicati nel riepilogo non comprendono le almeno 2 ore di congelamento richieste dal procedimento."
+    ],
+    "id": "hot-dog-di-pollo",
+    "minutes": 40,
+    "time": "40 min",
+    "portions": 8,
+    "portionLabel": "8 porzioni",
+    "calories": 262,
+    "protein": 22.0,
+    "carbs": 35.0,
+    "fat": 2.5,
+    "image": "images/45.webp",
+    "video": "https://youtube.com/shorts/N_SiuHAOH1w?feature=share",
+    "sourcePages": [
+      44,
+      45
+    ],
+    "group": "savory-breakfast",
+    "categories": [
+      "colazioni",
+      "spuntini"
+    ],
+    "taste": "salato",
+    "label": "Colazione salata",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 47,
+    "title": "Pane al formaggio",
+    "ingredients": [
+      "1 tazza di fiocchi di latte (200 g)",
+      "2 uova grandi",
+      "1/3 di tazza di farina di mandorle (40 g)",
+      "2 cucchiai di farina d'avena (20 g)",
+      "1/3 di tazza di formaggio grattugiato light (35 g)",
+      "Sale, aglio in polvere, pepe, prezzemolo in polvere o altre erbe aromatiche"
+    ],
+    "steps": [
+      [
+        "Prepara l'impasto",
+        "Frulla fiocchi di latte, uova, farina di mandorle, farina d'avena, sale e spezie fino a ottenere un composto liscio e denso."
+      ],
+      [
+        "Aggiungi il formaggio",
+        "Incorpora il formaggio grattugiato e versa in uno stampo di silicone o rivestito di carta forno."
+      ],
+      [
+        "Cuoci",
+        "Inforna a 180 °C in forno preriscaldato per circa 35 minuti, finché la superficie è dorata e uno stecchino inserito al centro esce pulito."
+      ]
+    ],
+    "id": "pane-al-formaggio",
+    "minutes": 40,
+    "time": "40 min",
+    "portions": 8,
+    "portionLabel": "8 fette",
+    "calories": 88,
+    "protein": 7.0,
+    "carbs": 3.0,
+    "fat": 5.0,
+    "image": "images/47.webp",
+    "video": "https://youtu.be/7pZV1ouvJTk",
+    "sourcePages": [
+      46,
+      47
+    ],
+    "group": "savory-breakfast",
+    "categories": [
+      "colazioni",
+      "spuntini"
+    ],
+    "taste": "salato",
+    "label": "Colazione salata",
+    "nutritionBasis": "Per fetta"
+  },
+  {
+    "page": 49,
+    "title": "Frittata ai peperoni e feta",
+    "ingredients": [
+      "4 uova",
+      "1 tazza di albumi (250 ml)",
+      "1/2 peperone rosso",
+      "1/2 peperone giallo",
+      "Prezzemolo tritato a piacere",
+      "100 g di feta",
+      "Sale, pepe e aglio in polvere",
+      "#Aggiunte facoltative, non incluse nei macronutrienti",
+      "Pollo o tonno",
+      "Cipolla",
+      "Porri",
+      "Funghi"
+    ],
+    "steps": [
+      [
+        "Prepara gli ingredienti",
+        "Taglia i peperoni a dadini e trita il prezzemolo."
+      ],
+      [
+        "Prepara la base",
+        "Sbatti le uova con gli albumi in una ciotola. Condisci con sale, pepe e aglio in polvere e mescola."
+      ],
+      [
+        "Aggiungi il ripieno",
+        "Unisci peperoni, prezzemolo e feta sbriciolata al composto di uova. Amalgama bene e, se vuoi, aggiungi altri ingredienti a piacere."
+      ],
+      [
+        "Cuoci",
+        "Versa in una pirofila unta con un filo d'olio d'oliva. Cuoci in forno preriscaldato a 180 °C per 30–35 minuti, finché ben rassodata. Servi da sola o con pane."
+      ]
+    ],
+    "id": "frittata-ai-peperoni-e-feta",
+    "minutes": 45,
+    "time": "45 min",
+    "portions": 6,
+    "portionLabel": "6 porzioni",
+    "calories": 104,
+    "protein": 10.5,
+    "carbs": 1.7,
+    "fat": 6.8,
+    "image": "images/49.webp",
+    "video": "https://youtu.be/XOT_tmbl8qA",
+    "sourcePages": [
+      48,
+      49
+    ],
+    "group": "savory-breakfast",
+    "categories": [
+      "colazioni",
+      "spuntini"
+    ],
+    "taste": "salato",
+    "label": "Colazione salata",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 51,
+    "title": "Tortini di pollo",
+    "ingredients": [
+      "4 uova",
+      "60 g di tapioca idratata o farina d'avena",
+      "140 g di pollo sfilacciato o un'altra fonte proteica, per esempio tonno",
+      "Sale, pepe, aglio in polvere e origano",
+      "80 g di mais",
+      "Formaggio spalmabile light, facoltativo"
+    ],
+    "steps": [
+      [
+        "Prepara l'impasto",
+        "Mescola uova e tapioca fino a ottenere un composto liscio. Aggiungi il pollo sfilacciato già condito, le spezie e le farciture a piacere. Se desideri maggiore cremosità, unisci formaggio spalmabile light."
+      ],
+      [
+        "Cuoci i tortini",
+        "Versa negli stampini da muffin. Cuoci in friggitrice ad aria a 160 °C per 20–25 minuti oppure in forno preriscaldato a 180 °C per 30–35 minuti, finché sodi e dorati."
+      ]
+    ],
+    "id": "tortini-di-pollo",
+    "minutes": 35,
+    "time": "35 min",
+    "portions": 6,
+    "portionLabel": "6 porzioni",
+    "calories": 130,
+    "protein": 12.0,
+    "carbs": 12.0,
+    "fat": 4.0,
+    "image": "images/51.webp",
+    "video": "https://youtube.com/shorts/c5eUMbu7sLU?feature=share",
+    "sourcePages": [
+      50,
+      51
+    ],
+    "group": "savory-breakfast",
+    "categories": [
+      "colazioni",
+      "spuntini"
+    ],
+    "taste": "salato",
+    "label": "Colazione salata",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 53,
+    "title": "Rotolo di carote al salmone",
+    "ingredients": [
+      "2 carote (200 g)",
+      "2 uova",
+      "100 g di formaggio grattugiato light",
+      "Sale, pepe e aglio in polvere",
+      "#Ripieno",
+      "1/2 avocado",
+      "150 g di salmone affumicato"
+    ],
+    "steps": [
+      [
+        "Scalda il forno",
+        "Preriscalda a 180 °C."
+      ],
+      [
+        "Prepara l'impasto",
+        "Mescola in una ciotola carote grattugiate, uova e formaggio grattugiato. Condisci con sale, pepe e aglio in polvere e amalgama bene."
+      ],
+      [
+        "Stendi la base",
+        "Distribuisci il composto su una teglia rivestita di carta forno, formando un rettangolo sottile e uniforme."
+      ],
+      [
+        "Cuoci",
+        "Inforna per 25–30 minuti, finché sodo e leggermente dorato."
+      ],
+      [
+        "Farcisci e arrotola",
+        "Sforna, lascia intiepidire e farcisci con avocado e salmone affumicato. Arrotola o ripiega prima di servire."
+      ]
+    ],
+    "id": "rotolo-di-carote-al-salmone",
+    "minutes": 40,
+    "time": "40 min",
+    "portions": 2,
+    "portionLabel": "2 porzioni",
+    "calories": 376,
+    "protein": 30.0,
+    "carbs": 13.9,
+    "fat": 22.2,
+    "image": "images/53.webp",
+    "video": "https://youtube.com/shorts/J7vdGFtlvMg?feature=share",
+    "sourcePages": [
+      52,
+      53
+    ],
+    "group": "savory-breakfast",
+    "categories": [
+      "colazioni",
+      "spuntini"
+    ],
+    "taste": "salato",
+    "label": "Colazione salata",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 55,
+    "title": "Insalata di uova senza maionese",
+    "ingredients": [
+      "6 uova",
+      "60 g di yogurt bianco magro o fiocchi di latte",
+      "60 g di cetriolo",
+      "Prezzemolo tritato a piacere",
+      "1 cucchiaino di senape di Digione, facoltativo",
+      "Succo di 1/2 limone",
+      "Sale e pepe",
+      "#Per servire, facoltativo e non incluso nei macronutrienti",
+      "Pane o piadina a scelta"
+    ],
+    "steps": [
+      [
+        "Cuoci le uova",
+        "Cuoci in acqua bollente per 10 minuti. Raffredda in acqua fredda e sguscia. Spezzetta e tieni da parte."
+      ],
+      [
+        "Prepara le verdure",
+        "Trita finemente cetriolo e prezzemolo e metti da parte."
+      ],
+      [
+        "Prepara la salsa",
+        "Mescola i fiocchi di latte o lo yogurt bianco magro con la senape di Digione fino a ottenere una salsa uniforme."
+      ],
+      [
+        "Mescola e servi",
+        "Riunisci tutti gli ingredienti in una ciotola, mescola bene e regola i condimenti. Servi con pane o piadina a scelta."
+      ]
+    ],
+    "id": "insalata-di-uova-senza-maionese",
+    "minutes": 15,
+    "time": "15 min",
+    "portions": 3,
+    "portionLabel": "3 porzioni",
+    "calories": 167,
+    "protein": 13.7,
+    "carbs": 4.0,
+    "fat": 10.2,
+    "image": "images/55.webp",
+    "video": "https://youtube.com/shorts/19FL0ZMiq20?feature=share",
+    "sourcePages": [
+      54,
+      55
+    ],
+    "group": "savory-breakfast",
+    "categories": [
+      "colazioni",
+      "spuntini"
+    ],
+    "taste": "salato",
+    "label": "Colazione salata",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 57,
+    "title": "Toast pizza di patata dolce",
+    "ingredients": [
+      "2 fette di patata dolce",
+      "4 cucchiai di polpa di pomodoro",
+      "200 g di fiocchi di latte",
+      "Un filo di miele o sciroppo d'acero 0%",
+      "Origano a piacere",
+      "40 g di formaggio grattugiato light"
+    ],
+    "steps": [
+      [
+        "Prepara la base",
+        "Taglia la patata dolce per il lungo in fette spesse circa 1 cm."
+      ],
+      [
+        "Precuoci",
+        "Metti in friggitrice ad aria a 180 °C per 7 minuti, finché le fette iniziano ad ammorbidirsi."
+      ],
+      [
+        "Farcisci",
+        "Copri ogni fetta con pomodoro, fiocchi di latte, un filo di miele o sciroppo d'acero 0% e origano. Completa con formaggio grattugiato light."
+      ],
+      [
+        "Gratina",
+        "Rimetti in friggitrice ad aria a 180 °C per altri 3–5 minuti, finché il formaggio si scioglie e si dora leggermente. Servi subito."
+      ]
+    ],
+    "notes": [
+      "Il libro elenca polpa di pomodoro negli ingredienti ma concentrato nel procedimento. I valori nutrizionali sono per fetta."
+    ],
+    "id": "toast-pizza-di-patata-dolce",
+    "minutes": 35,
+    "time": "35 min",
+    "portions": 2,
+    "portionLabel": "2 fette",
+    "calories": 218,
+    "protein": 19.0,
+    "carbs": 23.5,
+    "fat": 4.4,
+    "image": "images/57.webp",
+    "video": "https://youtube.com/shorts/yfRx8P9UXzk?feature=share",
+    "sourcePages": [
+      56,
+      57
+    ],
+    "group": "savory-breakfast",
+    "categories": [
+      "colazioni",
+      "spuntini"
+    ],
+    "taste": "salato",
+    "label": "Colazione salata",
+    "nutritionBasis": "Per fetta"
+  },
+  {
+    "page": 59,
+    "title": "Torta di carote salata al salmone",
+    "ingredients": [
+      "#Base",
+      "2 carote grandi, circa 300 g",
+      "2 uova",
+      "80 g di formaggio grattugiato light",
+      "Sale, pepe e aglio in polvere",
+      "#Ripieno",
+      "150 g di salmone affumicato",
+      "30 g di spinaci",
+      "Prezzemolo tritato, facoltativo",
+      "#Crema",
+      "2 uova e 1 albume",
+      "60 ml di bevanda di mandorla senza zuccheri o altro latte",
+      "Sale e pepe"
+    ],
+    "steps": [
+      [
+        "Prepara la base",
+        "Mescola carote grattugiate, uova, formaggio e spezie. Ungi una pirofila con olio d'oliva e distribuisci il composto premendolo sul fondo e sui bordi."
+      ],
+      [
+        "Precuoci",
+        "Inforna a 180 °C per 15 minuti."
+      ],
+      [
+        "Prepara la crema",
+        "Mentre la base cuoce, riunisci gli ingredienti della crema e mescola bene."
+      ],
+      [
+        "Farcisci",
+        "Sforna la base, aggiungi crema e ingredienti del ripieno; puoi aggiungerne altri a piacere."
+      ],
+      [
+        "Completa la cottura",
+        "Rimetti in forno a 180 °C per 20–25 minuti, fino a cottura completa. Servi con prezzemolo tritato, se vuoi."
+      ]
+    ],
+    "notes": [
+      "Il riepilogo indica 30 minuti, ma le due cotture descritte richiedono complessivamente 35–40 minuti."
+    ],
+    "id": "torta-di-carote-salata-al-salmone",
+    "minutes": 30,
+    "time": "30 min",
+    "portions": 2,
+    "portionLabel": "2 porzioni",
+    "calories": 327,
+    "protein": 31.7,
+    "carbs": 13.0,
+    "fat": 18.4,
+    "image": "images/59.webp",
+    "video": "https://youtube.com/shorts/Z7JjsTgufBs?feature=share",
+    "sourcePages": [
+      58,
+      59
+    ],
+    "group": "savory-breakfast",
+    "categories": [
+      "colazioni",
+      "spuntini"
+    ],
+    "taste": "salato",
+    "label": "Colazione salata",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 61,
+    "title": "Pizzette di ceci",
+    "ingredients": [
+      "#Base",
+      "2 uova",
+      "100 g di fiocchi di latte",
+      "200 g di ceci cotti e scolati",
+      "Sale, pepe e aglio in polvere a piacere",
+      "#Condimento totale per 6 pizzette",
+      "12 cucchiai di concentrato di pomodoro",
+      "120 g di formaggio grattugiato light",
+      "180 g di pollo sfilacciato o altra fonte proteica a scelta"
+    ],
+    "notes": [
+      "Puoi congelare le pizzette già cotte e riscaldarle in forno o in friggitrice ad aria.",
+      "Per renderle più croccanti, usa la friggitrice ad aria nella fase finale."
+    ],
+    "steps": [
+      [
+        "Frulla la base",
+        "Metti uova, fiocchi di latte e ceci in un robot da cucina o frullatore e lavora fino a ottenere un composto liscio."
+      ],
+      [
+        "Condisci",
+        "Aggiungi sale, pepe e aglio in polvere e mescola."
+      ],
+      [
+        "Forma le pizzette",
+        "Dividi in 6 porzioni su una teglia rivestita di carta forno e forma piccoli dischi."
+      ],
+      [
+        "Precuoci",
+        "Inforna in forno preriscaldato a 180 °C per 15–20 minuti, finché le basi sono sode."
+      ],
+      [
+        "Farcisci",
+        "Distribuisci uniformemente concentrato di pomodoro, pollo sfilacciato e formaggio sulle basi."
+      ],
+      [
+        "Completa la cottura",
+        "Rimetti in forno per altri 10–15 minuti, finché il formaggio si scioglie, e servi."
+      ]
+    ],
+    "id": "pizzette-di-ceci",
+    "minutes": 35,
+    "time": "35 min",
+    "portions": 6,
+    "portionLabel": "6 porzioni",
+    "calories": 150,
+    "protein": 12.0,
+    "carbs": 13.0,
+    "fat": 5.0,
+    "image": "images/61.webp",
+    "video": "https://www.youtube.com/shorts/h6nXLdJrVzw?is=qtEU2FBJwmEEso02",
+    "sourcePages": [
+      60,
+      61
+    ],
+    "group": "savory-breakfast",
+    "categories": [
+      "colazioni",
+      "spuntini"
+    ],
+    "taste": "salato",
+    "label": "Colazione salata",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 65,
+    "title": "Burger di patata dolce",
+    "ingredients": [
+      "2 patate dolci, circa 600 g",
+      "800 g di macinato magro di manzo o altra carne",
+      "Sale, pepe, paprika e aglio in polvere",
+      "Un filo d'olio d'oliva",
+      "8 fette di formaggio light",
+      "#Ripieno facoltativo, non incluso nei macronutrienti",
+      "Guacamole",
+      "Cipolla rossa",
+      "Pomodoro"
+    ],
+    "steps": [
+      [
+        "Prepara le patate",
+        "Taglia le patate dolci a fette spesse circa 1 cm, condisci con olio e spezie e cuoci in forno preriscaldato a 180 °C per 25 minuti."
+      ],
+      [
+        "Prepara gli hamburger",
+        "Condisci bene la carne, forma gli hamburger e cuocili in padella da entrambi i lati con un filo d'olio."
+      ],
+      [
+        "Assembla",
+        "Su una fetta di patata dolce metti una fetta di formaggio light, l'hamburger e gli altri ingredienti scelti. Chiudi con un'altra fetta di patata dolce."
+      ]
+    ],
+    "id": "burger-di-patata-dolce",
+    "minutes": 30,
+    "time": "30 min",
+    "portions": 8,
+    "portionLabel": "8 porzioni",
+    "calories": 255,
+    "protein": 20.0,
+    "carbs": 15.0,
+    "fat": 12.0,
+    "image": "images/65.webp",
+    "video": "https://youtube.com/shorts/QAFXA6E8_yk?feature=share",
+    "sourcePages": [
+      64,
+      65
+    ],
+    "group": "main",
+    "categories": [
+      "pranzo",
+      "cena"
+    ],
+    "taste": "salato",
+    "label": "Pranzo / Cena",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 67,
+    "title": "Pasta Alfredo con pollo",
+    "ingredients": [
+      "2 petti di pollo (600 g)",
+      "Sale, pepe, aglio in polvere e paprika",
+      "Prezzemolo tritato a piacere",
+      "480 g di pasta, peso da cotta",
+      "#Salsa",
+      "200 g di fiocchi di latte",
+      "1/2 tazza di latte a scelta",
+      "1/4 di tazza di formaggio grattugiato light",
+      "1 spicchio d'aglio",
+      "Sale, pepe e aglio in polvere"
+    ],
+    "steps": [
+      [
+        "Cuoci il pollo",
+        "Condisci il pollo con le spezie e cuoci in friggitrice ad aria a 180 °C per 25 minuti, girando a metà cottura."
+      ],
+      [
+        "Prepara salsa e pasta",
+        "Frulla gli ingredienti della salsa con i condimenti fino a renderla cremosa. Assaggia e regola i condimenti. A parte, cuoci la pasta seguendo le istruzioni sulla confezione."
+      ],
+      [
+        "Completa",
+        "Unisci la salsa alla pasta, mescola per 2 minuti e servi con il pollo e il prezzemolo tritato."
+      ]
+    ],
+    "notes": [
+      "Il riepilogo del libro indica 20 minuti, mentre la sola cottura del pollo ne richiede 25."
+    ],
+    "id": "pasta-alfredo-con-pollo",
+    "minutes": 20,
+    "time": "20 min",
+    "portions": 4,
+    "portionLabel": "4 porzioni",
+    "calories": 306,
+    "protein": 42.0,
+    "carbs": 16.7,
+    "fat": 4.2,
+    "image": "images/67.webp",
+    "video": "https://youtube.com/shorts/FPQVeI7dCbQ?feature=share",
+    "sourcePages": [
+      66,
+      67
+    ],
+    "group": "main",
+    "categories": [
+      "pranzo",
+      "cena"
+    ],
+    "taste": "salato",
+    "label": "Pranzo / Cena",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 69,
+    "title": "Noodles al pollo e cocco",
+    "ingredients": [
+      "1 kg di pollo a striscioline",
+      "200 g di funghi shiitake",
+      "1 peperone rosso",
+      "1 peperone giallo",
+      "250 g di noodles all'uovo",
+      "500 ml di latte di cocco light",
+      "3 cucchiai di salsa di soia",
+      "Sale, pepe, paprika, aglio e cipolla in polvere",
+      "Erba cipollina a piacere",
+      "Semi di sesamo, facoltativi"
+    ],
+    "steps": [
+      [
+        "Salta gli ingredienti",
+        "In una padella capiente o un wok scalda un filo d'olio d'oliva e fai saltare peperoni, funghi e pollo a striscioline. Condisci con sale, pepe, paprika, aglio e cipolla in polvere."
+      ],
+      [
+        "Aggiungi noodles e salsa",
+        "Quando il pollo è cotto, aggiungi i noodles crudi, il latte di cocco e la salsa di soia. Mescola bene e regola i condimenti."
+      ],
+      [
+        "Cuoci e servi",
+        "Copri e cuoci per circa 4 minuti, finché i noodles sono teneri. Completa con cipollotto tritato e semi di sesamo e servi."
+      ]
+    ],
+    "notes": [
+      "Il libro indica erba cipollina negli ingredienti e cipollotto nel passaggio finale."
+    ],
+    "id": "noodles-al-pollo-e-cocco",
+    "minutes": 25,
+    "time": "25 min",
+    "portions": 5,
+    "portionLabel": "5 porzioni",
+    "calories": 498,
+    "protein": 48.0,
+    "carbs": 42.0,
+    "fat": 14.0,
+    "image": "images/69.webp",
+    "video": "https://youtube.com/shorts/cJVPlkl-j-k?feature=share",
+    "sourcePages": [
+      68,
+      69
+    ],
+    "group": "main",
+    "categories": [
+      "pranzo",
+      "cena"
+    ],
+    "taste": "salato",
+    "label": "Pranzo / Cena",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 71,
+    "title": "Spiedini di pollo al curry",
+    "ingredients": [
+      "2 petti di pollo, circa 600 g",
+      "1 peperone giallo",
+      "1 peperone verde",
+      "#Condimento della carne",
+      "2 cucchiai di senape di Digione",
+      "Succo di 1/2 limone",
+      "Sale, pepe e aglio in polvere",
+      "#Salsa cremosa",
+      "60 g di formaggio spalmabile light",
+      "120 g di yogurt magro o vegetale",
+      "Succo di 1/2 limone",
+      "1 cucchiaio da dessert di senape di Digione",
+      "Curry a piacere",
+      "Sale, pepe e aglio in polvere"
+    ],
+    "steps": [
+      [
+        "Prepara gli spiedini",
+        "Taglia pollo e peperoni a pezzi. Infilali alternandoli su spiedini robusti."
+      ],
+      [
+        "Cuoci",
+        "Mescola senape, succo di limone, sale, pepe e aglio in polvere. Condisci gli spiedini e cuoci in friggitrice ad aria a 180 °C per 15 minuti, girando a metà cottura, oppure in forno a 180 °C per 25 minuti."
+      ],
+      [
+        "Prepara la salsa",
+        "Mescola tutti gli ingredienti della salsa in una padella calda fino a ottenere una crema."
+      ],
+      [
+        "Completa",
+        "Passa gli spiedini nella padella per ricoprirli di salsa e servi."
+      ]
+    ],
+    "id": "spiedini-di-pollo-al-curry",
+    "minutes": 25,
+    "time": "25 min",
+    "portions": 4,
+    "portionLabel": "4 porzioni",
+    "calories": 246,
+    "protein": 37.8,
+    "carbs": 5.9,
+    "fat": 4.5,
+    "image": "images/71.webp",
+    "video": "https://youtube.com/shorts/Z-YBHMcr28U?feature=share",
+    "sourcePages": [
+      70,
+      71
+    ],
+    "group": "main",
+    "categories": [
+      "pranzo",
+      "cena"
+    ],
+    "taste": "salato",
+    "label": "Pranzo / Cena",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 73,
+    "title": "Cestini di carne ripieni",
+    "ingredients": [
+      "500 g di macinato magro di manzo",
+      "Sale, pepe e paprika a piacere",
+      "Polpa di pomodoro a piacere",
+      "30 g di formaggio spalmabile light",
+      "Sottaceti tritati a piacere",
+      "Cipolla tritata a piacere",
+      "Funghi affettati a piacere",
+      "Formaggio grattugiato light a piacere",
+      "Prezzemolo tritato per completare"
+    ],
+    "steps": [
+      [
+        "Forma i cestini",
+        "Dividi la carne in due porzioni. Modella ogni porzione intorno alla base di un bicchiere, formando un piccolo contenitore di carne. Condisci con sale, pepe e paprika e rimuovi il bicchiere."
+      ],
+      [
+        "Farcisci",
+        "Distribuisci poca polpa di pomodoro all'interno. Riempi un cestino con formaggio spalmabile, sottaceti e cipolla; l'altro con funghi e cipolla. Se vuoi, copri entrambi con formaggio light."
+      ],
+      [
+        "Cuoci",
+        "Cuoci in friggitrice ad aria a 180 °C per circa 15 minuti, oppure in forno per 25 minuti. Servi con prezzemolo tritato."
+      ]
+    ],
+    "id": "cestini-di-carne-ripieni",
+    "minutes": 25,
+    "time": "25 min",
+    "portions": 2,
+    "portionLabel": "2 porzioni",
+    "calories": 378,
+    "protein": 52.0,
+    "carbs": 10.0,
+    "fat": 14.0,
+    "image": "images/73.webp",
+    "video": "https://youtube.com/shorts/JLSQXdS6h5Y?feature=share",
+    "sourcePages": [
+      72,
+      73
+    ],
+    "group": "main",
+    "categories": [
+      "pranzo",
+      "cena"
+    ],
+    "taste": "salato",
+    "label": "Pranzo / Cena",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 75,
+    "title": "Polpette di salmone e riso",
+    "ingredients": [
+      "1 filetto di salmone (150–180 g)",
+      "100 g di riso bianco cotto",
+      "Succo di 1/2 limone",
+      "30 g di formaggio spalmabile light",
+      "80 ml di albumi",
+      "Erba cipollina tritata a piacere",
+      "1 cucchiaio di salsa di soia, facoltativo",
+      "Sale, pepe e aglio in polvere a piacere",
+      "#Salsa allo yogurt facoltativa, non inclusa nei macronutrienti",
+      "120 g di yogurt greco magro",
+      "Succo di 1/2 limone",
+      "Prezzemolo tritato a piacere",
+      "Sale, pepe e aglio in polvere a piacere"
+    ],
+    "steps": [
+      [
+        "Cuoci il salmone",
+        "Condisci con sale, pepe, aglio in polvere e succo di limone. Cuoci in friggitrice ad aria a 180 °C per 20 minuti."
+      ],
+      [
+        "Cuoci il riso",
+        "A parte, cuoci il riso bianco."
+      ],
+      [
+        "Prepara il composto",
+        "Sfalda il salmone con una forchetta e mescolalo in una ciotola con riso cotto, formaggio spalmabile, albumi, cipollotto e salsa di soia facoltativa. Amalgama fino a ottenere un impasto modellabile."
+      ],
+      [
+        "Forma e cuoci",
+        "Forma piccole polpette con le mani. Cuoci in friggitrice ad aria a 180 °C per 15–20 minuti, girando a metà cottura, finché sode e leggermente dorate. Servi con salsa allo yogurt."
+      ]
+    ],
+    "notes": [
+      "Il riepilogo indica 25 minuti; le due cotture del procedimento richiedono almeno 35 minuti complessivi.",
+      "Il libro indica erba cipollina negli ingredienti e cipollotto nel procedimento."
+    ],
+    "id": "polpette-di-salmone-e-riso",
+    "minutes": 25,
+    "time": "25 min",
+    "portions": 7,
+    "portionLabel": "7 pezzi",
+    "calories": 72,
+    "protein": 8.2,
+    "carbs": 5.3,
+    "fat": 2.0,
+    "image": "images/75.webp",
+    "video": "https://youtube.com/shorts/92wR8b_X3LY?feature=share",
+    "sourcePages": [
+      74,
+      75
+    ],
+    "group": "main",
+    "categories": [
+      "pranzo",
+      "cena"
+    ],
+    "taste": "salato",
+    "label": "Pranzo / Cena",
+    "nutritionBasis": "Per pezzo"
+  },
+  {
+    "page": 77,
+    "title": "Salmone cremoso alla toscana",
+    "ingredients": [
+      "2 filetti di salmone",
+      "1 cucchiaio d'olio d'oliva",
+      "1 cipolla tritata",
+      "2 spicchi d'aglio tritati",
+      "100 g di pomodorini",
+      "150 g di fiocchi di latte frullati con latte quanto basta, oppure 1/2 confezione di panna light",
+      "Origano a piacere",
+      "Sale e pepe a piacere",
+      "150 g di spinaci freschi",
+      "2 cucchiai di concentrato di pomodoro",
+      "Scorza di 1/2 limone",
+      "Prezzemolo a piacere"
+    ],
+    "steps": [
+      [
+        "Cuoci il salmone",
+        "In una padella antiaderente, con un filo d'olio a fuoco medio-alto, fai rosolare cipolla, aglio e pomodorini. Aggiungi il salmone, condisci e cuoci da entrambi i lati. Unisci poi gli spinaci."
+      ],
+      [
+        "Prepara la salsa",
+        "Frulla i fiocchi di latte con latte e sale a piacere fino alla consistenza desiderata. Assaggia e regola i condimenti."
+      ],
+      [
+        "Completa",
+        "Versa la salsa e mescola bene. Aggiungi scorza di limone e origano facoltativo. Lascia cuocere 5 minuti e servi."
+      ]
+    ],
+    "notes": [
+      "Togli il salmone dalla padella mentre cuoci gli spinaci per evitare che si ammorbidisca troppo.",
+      "Il concentrato di pomodoro e il prezzemolo compaiono negli ingredienti, ma il libro non specifica quando aggiungerli."
+    ],
+    "id": "salmone-cremoso-alla-toscana",
+    "minutes": 20,
+    "time": "20 min",
+    "portions": 2,
+    "portionLabel": "2 porzioni",
+    "calories": 394,
+    "protein": 42.7,
+    "carbs": 13.9,
+    "fat": 19.0,
+    "image": "images/77.webp",
+    "video": "https://youtube.com/shorts/MWBYT3w2a8I?feature=share",
+    "sourcePages": [
+      76,
+      77
+    ],
+    "group": "main",
+    "categories": [
+      "pranzo",
+      "cena"
+    ],
+    "taste": "salato",
+    "label": "Pranzo / Cena",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 79,
+    "title": "Polpette di tonno e riso",
+    "ingredients": [
+      "200 g di riso bianco cotto",
+      "3 scatolette di tonno al naturale",
+      "60 g di formaggio spalmabile light",
+      "3 uova",
+      "Sale e pepe a piacere",
+      "#Salsa allo yogurt facoltativa, non inclusa nei macronutrienti",
+      "120 g di yogurt greco magro",
+      "Succo di 1/2 limone",
+      "Prezzemolo tritato a piacere",
+      "Sale, pepe e aglio in polvere a piacere"
+    ],
+    "steps": [
+      [
+        "Prepara il composto",
+        "Mescola tutti gli ingredienti delle polpette, condisci e forma delle palline."
+      ],
+      [
+        "Scalda la padella",
+        "Scalda una padella antiaderente, aggiungi un filo d'olio d'oliva e rimuovi l'eccesso con carta assorbente."
+      ],
+      [
+        "Cuoci e servi",
+        "Cuoci le polpette su tutti i lati fino a doratura e servi."
+      ]
+    ],
+    "id": "polpette-di-tonno-e-riso",
+    "minutes": 25,
+    "time": "25 min",
+    "portions": 9,
+    "portionLabel": "9 pezzi",
+    "calories": 78,
+    "protein": 9.0,
+    "carbs": 5.6,
+    "fat": 1.0,
+    "image": "images/79.webp",
+    "video": "https://youtube.com/shorts/RW3rLTX4JKg?feature=share",
+    "sourcePages": [
+      78,
+      79
+    ],
+    "group": "main",
+    "categories": [
+      "pranzo",
+      "cena"
+    ],
+    "taste": "salato",
+    "label": "Pranzo / Cena",
+    "nutritionBasis": "Per pezzo"
+  },
+  {
+    "page": 81,
+    "title": "Pollo cremoso alle spezie",
+    "ingredients": [
+      "Un filo d'olio d'oliva",
+      "1 spicchio d'aglio",
+      "4 petti di pollo a cubetti",
+      "Sale, pepe, paprika e aglio in polvere",
+      "4 cucchiai di yogurt greco magro o yogurt vegetale",
+      "Prezzemolo tritato a piacere",
+      "#Salsa",
+      "1 peperone verde",
+      "2 pomodori",
+      "1 cipolla",
+      "2 spicchi d'aglio",
+      "100 g di yogurt greco magro",
+      "Sale, pepe, paprika e aglio in polvere"
+    ],
+    "steps": [
+      [
+        "Prepara le verdure della salsa",
+        "Taglia a pezzi gli ingredienti della salsa, tranne lo yogurt. Condisci con olio d'oliva e spezie a piacere. Cuoci in friggitrice ad aria a 180 °C per 20 minuti oppure su una teglia con carta forno a 180 °C per 25 minuti, finché le verdure sono tenere."
+      ],
+      [
+        "Cuoci il pollo",
+        "Condisci il pollo con yogurt e spezie, mescolando per ricoprirlo bene. Cuoci in friggitrice ad aria a 180 °C per 25 minuti, girando a metà, oppure in forno a 180 °C per circa 30 minuti, finché cotto all'interno e dorato all'esterno."
+      ],
+      [
+        "Completa",
+        "Frulla le verdure cotte con lo yogurt fino a ottenere una salsa cremosa. Regola i condimenti, versa sul pollo e servi con prezzemolo fresco tritato."
+      ]
+    ],
+    "id": "pollo-cremoso-alle-spezie",
+    "minutes": 30,
+    "time": "30 min",
+    "portions": 4,
+    "portionLabel": "4 porzioni",
+    "calories": 352,
+    "protein": 55.0,
+    "carbs": 9.0,
+    "fat": 5.4,
+    "image": "images/81.webp",
+    "video": "https://youtu.be/eXRuemsk-c0",
+    "sourcePages": [
+      80,
+      81
+    ],
+    "group": "main",
+    "categories": [
+      "pranzo",
+      "cena"
+    ],
+    "taste": "salato",
+    "label": "Pranzo / Cena",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 83,
+    "title": "Crocchette di pollo e carote",
+    "ingredients": [
+      "400 g di pollo macinato",
+      "2 carote grattugiate",
+      "Sale, pepe, paprika e aglio in polvere",
+      "8 mozzarelline light",
+      "Corn flakes senza zuccheri o pangrattato panko quanto basta per impanare"
+    ],
+    "steps": [
+      [
+        "Prepara gli ingredienti",
+        "Grattugia le carote. Se non usi panko, trita i corn flakes fino a una consistenza simile al pangrattato."
+      ],
+      [
+        "Prepara la base",
+        "Mescola pollo macinato e carote in una ciotola. Condisci con sale, pepe e aglio in polvere e amalgama bene."
+      ],
+      [
+        "Forma le crocchette",
+        "Dividi in 8 parti uguali. Appiattisci ogni porzione nella mano, metti una mozzarellina al centro e richiudi formando una pallina."
+      ],
+      [
+        "Impana",
+        "Passa ogni pallina nei corn flakes tritati o nel panko, premendo leggermente per far aderire."
+      ],
+      [
+        "Cuoci",
+        "Cuoci in friggitrice ad aria a 180 °C per 17 minuti oppure in forno a 200 °C per 20–25 minuti, girando a metà cottura per una doratura uniforme."
+      ]
+    ],
+    "id": "crocchette-di-pollo-e-carote",
+    "minutes": 25,
+    "time": "25 min",
+    "portions": 8,
+    "portionLabel": "8 porzioni",
+    "calories": 122,
+    "protein": 16.0,
+    "carbs": 6.5,
+    "fat": 3.5,
+    "image": "images/83.webp",
+    "video": "https://youtube.com/shorts/2MVqKW_9goo?feature=share",
+    "sourcePages": [
+      82,
+      83
+    ],
+    "group": "main",
+    "categories": [
+      "pranzo",
+      "cena"
+    ],
+    "taste": "salato",
+    "label": "Pranzo / Cena",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 85,
+    "title": "Pollo sfilacciato in crema di verdure",
+    "ingredients": [
+      "2 petti di pollo, circa 600 g",
+      "Sale",
+      "Prezzemolo tritato a piacere",
+      "Porri",
+      "#Salsa",
+      "1 carota",
+      "1 pomodoro",
+      "1 peperone arancione",
+      "1 peperone giallo",
+      "Sale, pepe, paprika e aglio in polvere",
+      "Tabasco a piacere, facoltativo"
+    ],
+    "steps": [
+      [
+        "Cuoci il pollo",
+        "Metti pollo e porro in acqua bollente con un pizzico di sale. Cuoci per 12–15 minuti, fino a cottura completa. In alternativa cuoci il pollo condito in friggitrice ad aria a 180 °C per 30 minuti. Scola, fai intiepidire e sfilaccia."
+      ],
+      [
+        "Cuoci le verdure",
+        "Taglia carota, pomodoro e peperoni a pezzi. Cuoci in friggitrice ad aria a 180 °C per 18–20 minuti oppure in forno a 180 °C per 25 minuti, finché teneri e leggermente arrostiti."
+      ],
+      [
+        "Prepara la salsa",
+        "Frulla le verdure con sale, pepe, paprika e aglio in polvere fino a ottenere una salsa liscia."
+      ],
+      [
+        "Completa",
+        "Unisci il pollo sfilacciato alla salsa, mescola bene e completa con prezzemolo tritato."
+      ]
+    ],
+    "id": "pollo-sfilacciato-in-crema-di-verdure",
+    "minutes": 30,
+    "time": "30 min",
+    "portions": 6,
+    "portionLabel": "6 porzioni",
+    "calories": 205,
+    "protein": 32.0,
+    "carbs": 10.0,
+    "fat": 3.5,
+    "image": "images/85.webp",
+    "video": "https://youtube.com/shorts/YjEfGQS_baw?feature=share",
+    "sourcePages": [
+      84,
+      85
+    ],
+    "group": "main",
+    "categories": [
+      "pranzo",
+      "cena"
+    ],
+    "taste": "salato",
+    "label": "Pranzo / Cena",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 87,
+    "title": "Pasta cremosa al tonno",
+    "ingredients": [
+      "80 g di pasta cruda",
+      "20 pomodorini",
+      "Una manciata di spinaci",
+      "300 g di tonno al naturale in scatola",
+      "80 g di polpa di pomodoro",
+      "200 g di fiocchi di latte",
+      "100 ml di latte o bevanda vegetale, o di più per regolare la salsa",
+      "50 g di formaggio grattugiato light, facoltativo",
+      "Sale, aglio in polvere e origano"
+    ],
+    "steps": [
+      [
+        "Cuoci la pasta",
+        "Il libro indica di riunire tutti gli ingredienti in una padella, condire, coprire e cuocere fino a cottura della pasta, circa 10 minuti."
+      ],
+      [
+        "Prepara la salsa",
+        "Frulla i fiocchi di latte con latte e condimenti fino alla consistenza desiderata e aggiungi al composto."
+      ],
+      [
+        "Completa",
+        "Aggiungi il formaggio grattugiato facoltativo, mescola e servi."
+      ]
+    ],
+    "notes": [
+      "Il primo passaggio dice di unire tutti gli ingredienti, ma il secondo usa separatamente fiocchi di latte e latte per la salsa. La fonte non specifica un'ulteriore quantità di liquido per cuocere la pasta."
+    ],
+    "id": "pasta-cremosa-al-tonno",
+    "minutes": 20,
+    "time": "20 min",
+    "portions": 3,
+    "portionLabel": "3 porzioni",
+    "calories": 337,
+    "protein": 42.7,
+    "carbs": 29.9,
+    "fat": 8.7,
+    "image": "images/87.webp",
+    "video": "https://youtube.com/shorts/TLUXFYBK6as",
+    "sourcePages": [
+      86,
+      87
+    ],
+    "group": "main",
+    "categories": [
+      "pranzo",
+      "cena"
+    ],
+    "taste": "salato",
+    "label": "Pranzo / Cena",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 91,
+    "title": "Burger con dischi di patata dolce e carota",
+    "ingredients": [
+      "#Dischi di verdure",
+      "250 g di patata dolce grattugiata",
+      "200 g di carota grattugiata",
+      "3 uova",
+      "100 g di formaggio grattugiato light",
+      "Sale e pepe a piacere",
+      "#Hamburger",
+      "300 g di macinato magro di manzo",
+      "Sale, pepe, paprika e aglio in polvere a piacere",
+      "#Guacamole",
+      "1 avocado medio, circa 150 g di polpa",
+      "Succo di 1/2 limone",
+      "Aglio in polvere, sale e pepe a piacere"
+    ],
+    "steps": [
+      [
+        "Prepara i dischi",
+        "Grattugia patata dolce e carota e strizzale bene con un canovaccio o carta assorbente. Mescola con uova, formaggio, sale e pepe. Su una teglia con carta forno forma dischi uniformi, premendo bene. Cuoci in forno preriscaldato a 180 °C per 25 minuti, finché sodi e dorati."
+      ],
+      [
+        "Prepara il guacamole",
+        "Schiaccia l'avocado con una forchetta. Condisci con succo di limone, aglio in polvere, sale e pepe. Mescola e metti da parte."
+      ],
+      [
+        "Cuoci gli hamburger",
+        "Condisci la carne con sale, pepe, paprika e aglio in polvere. Forma 3 hamburger uguali e cuoci in una padella antiaderente a fuoco medio-alto per 3–4 minuti per lato, finché dorati e cotti all'interno. Assembla e servi."
+      ]
+    ],
+    "id": "burger-con-dischi-di-patata-dolce-e-carota",
+    "minutes": 35,
+    "time": "35 min",
+    "portions": 3,
+    "portionLabel": "3 porzioni",
+    "calories": 418,
+    "protein": 36.0,
+    "carbs": 24.0,
+    "fat": 19.0,
+    "image": "images/91.webp",
+    "video": "https://youtube.com/shorts/WAPm99hUt_g?feature=share",
+    "sourcePages": [
+      90,
+      91
+    ],
+    "group": "main",
+    "categories": [
+      "pranzo",
+      "cena"
+    ],
+    "taste": "salato",
+    "label": "Pranzo / Cena",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 93,
+    "title": "Crocchette di tonno e patate",
+    "ingredients": [
+      "400 g di patate bianche o dolci",
+      "3 scatolette di tonno al naturale, 360 g sgocciolati",
+      "1 cipolla tritata",
+      "Prezzemolo tritato a piacere",
+      "1 cucchiaio d'olio d'oliva",
+      "Sale, pepe, cipolla e aglio in polvere",
+      "50 g di formaggio spalmabile light, facoltativo per migliorare la consistenza: +7 kcal per crocchetta",
+      "#Salsa allo yogurt facoltativa, non inclusa nei macronutrienti",
+      "120 g di yogurt greco magro",
+      "Succo di 1/2 limone",
+      "Prezzemolo tritato a piacere",
+      "Sale, pepe e aglio in polvere a piacere"
+    ],
+    "steps": [
+      [
+        "Cuoci le patate",
+        "Sbuccia e cuoci al microonde per 10–12 minuti oppure in acqua bollente per 20 minuti, finché molto morbide."
+      ],
+      [
+        "Prepara il composto",
+        "Schiaccia le patate e unisci tonno sgocciolato, cipolla, prezzemolo, spezie, olio e formaggio spalmabile facoltativo. Amalgama bene. Se necessario aggiungi poca farina d'avena per rendere il composto più consistente."
+      ],
+      [
+        "Forma e cuoci",
+        "Forma le crocchette, mettile nella friggitrice ad aria, irrora con poco olio e cuoci a 180 °C per 20–25 minuti, fino a doratura. In alternativa cuoci in forno a 180 °C per 30 minuti."
+      ],
+      [
+        "Servi",
+        "Accompagna con salsa allo yogurt o un'altra salsa: è importante per evitare che il piatto risulti asciutto."
+      ]
+    ],
+    "id": "crocchette-di-tonno-e-patate",
+    "minutes": 35,
+    "time": "35 min",
+    "portions": 12,
+    "portionLabel": "12 pezzi",
+    "calories": 68,
+    "protein": 9.0,
+    "carbs": 5.5,
+    "fat": 1.3,
+    "image": "images/93.webp",
+    "video": "https://youtu.be/QsDes4jxRAg",
+    "sourcePages": [
+      92,
+      93
+    ],
+    "group": "main",
+    "categories": [
+      "pranzo",
+      "cena"
+    ],
+    "taste": "salato",
+    "label": "Pranzo / Cena",
+    "nutritionBasis": "Per pezzo"
+  },
+  {
+    "page": 95,
+    "title": "Crêpes ripiene di pollo sfilacciato",
+    "ingredients": [
+      "#Crêpes",
+      "3 uova",
+      "180 ml di bevanda di mandorla senza zuccheri o altro latte",
+      "180 g di tapioca idratata oppure 150 g di farina d'avena",
+      "Sale e pepe",
+      "#Ripieno e copertura, quantità riportate nel libro",
+      "900 g di pollo sfilacciato",
+      "125 g di formaggio spalmabile light o ricotta light",
+      "100 g di formaggio grattugiato light",
+      "Prezzemolo tritato a piacere"
+    ],
+    "steps": [
+      [
+        "Prepara le crêpes",
+        "Frulla tutti gli ingredienti delle crêpes fino a ottenere una pastella liscia. Scalda una padella antiaderente a fuoco medio-alto, versa un mestolo di pastella e ruota la padella per distribuirla. Quando la superficie è asciutta e i bordi si staccano, gira e cuoci altri 30 secondi. Ripeti fino a esaurimento."
+      ],
+      [
+        "Farcisci",
+        "Distribuisci su ogni crêpe 150 g di pollo sfilacciato, 1 cucchiaio di formaggio spalmabile e poco formaggio grattugiato. Ripiega o arrotola strettamente e disponi in una teglia unta con un filo d'olio o rivestita di carta forno."
+      ],
+      [
+        "Gratina",
+        "Cospargi con il formaggio grattugiato rimasto e inforna a 180 °C per 15–20 minuti, finché fuso e dorato. Completa con prezzemolo fresco tritato e servi."
+      ]
+    ],
+    "notes": [
+      "Il titolo della lista del ripieno dice «per ogni crêpe», ma riporta 900 g di pollo; il procedimento specifica 150 g per ciascuna delle 6 crêpes. Le quantità originali sono conservate."
+    ],
+    "id": "crepes-ripiene-di-pollo-sfilacciato",
+    "minutes": 40,
+    "time": "40 min",
+    "portions": 6,
+    "portionLabel": "6 porzioni",
+    "calories": 318,
+    "protein": 42.0,
+    "carbs": 22.0,
+    "fat": 6.0,
+    "image": "images/95.webp",
+    "video": "https://youtube.com/shorts/BxEBHkUPpVI?feature=share",
+    "sourcePages": [
+      94,
+      95
+    ],
+    "group": "main",
+    "categories": [
+      "pranzo",
+      "cena"
+    ],
+    "taste": "salato",
+    "label": "Pranzo / Cena",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 97,
+    "title": "Sformato facile di patate e carne",
+    "ingredients": [
+      "1 kg di patate",
+      "1 kg di macinato magro di manzo",
+      "Un filo d'olio d'oliva",
+      "1 cipolla",
+      "2 spicchi d'aglio",
+      "1/2 peperone",
+      "1 pomodoro",
+      "1 carota grattugiata",
+      "2 cucchiai di concentrato di pomodoro",
+      "120 ml di bevanda di mandorla senza zuccheri o altro latte",
+      "150 g di formaggio grattugiato light",
+      "Sale, pepe, aglio in polvere e paprika"
+    ],
+    "steps": [
+      [
+        "Cuoci le patate",
+        "Sbuccia e taglia a pezzi le patate. Cuoci in acqua salata per circa 20 minuti oppure al microonde per 8–10 minuti. Scola bene e metti da parte."
+      ],
+      [
+        "Prepara il soffritto",
+        "Fai appassire cipolla e aglio tritati in un filo d'olio a fuoco medio. Aggiungi peperone a dadini, carota grattugiata e pomodoro tritato e cuoci 3–4 minuti, mescolando ogni tanto."
+      ],
+      [
+        "Aggiungi carne e pomodoro",
+        "Unisci la carne condita e cuoci finché perde il colore rosato. Aggiungi il concentrato di pomodoro, mescola e fai sobbollire a fuoco basso per 2–3 minuti."
+      ],
+      [
+        "Assembla e cuoci",
+        "In una pirofila schiaccia le patate con il latte e condisci bene, mescolando fino a ottenere un purè cremoso. Distribuisci sopra la carne, copri con formaggio grattugiato e inforna a 180 °C per 25–30 minuti, fino a doratura."
+      ]
+    ],
+    "id": "sformato-facile-di-patate-e-carne",
+    "minutes": 50,
+    "time": "50 min",
+    "portions": 8,
+    "portionLabel": "8 porzioni",
+    "calories": 300,
+    "protein": 31.0,
+    "carbs": 26.6,
+    "fat": 7.2,
+    "image": "images/97.webp",
+    "video": "https://youtube.com/shorts/yT0M26IPvVY?feature=share",
+    "sourcePages": [
+      96,
+      97
+    ],
+    "group": "main",
+    "categories": [
+      "pranzo",
+      "cena"
+    ],
+    "taste": "salato",
+    "label": "Pranzo / Cena",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 99,
+    "title": "Gratin di merluzzo e patate dolci",
+    "ingredients": [
+      "#Base",
+      "2 patate dolci medie, circa 600 g",
+      "800 g di merluzzo cotto e sfilacciato",
+      "150 g di formaggio grattugiato light per la copertura",
+      "Prezzemolo tritato a piacere",
+      "#Verdure saltate",
+      "1 porro",
+      "1 cipolla media tritata",
+      "2 spicchi d'aglio tritati",
+      "100 g di spinaci",
+      "1 cucchiaio d'olio d'oliva",
+      "Sale, pepe e aglio in polvere a piacere",
+      "#Salsa bianca",
+      "400 g di fiocchi di latte",
+      "250 g di yogurt greco magro",
+      "150 ml di bevanda vegetale, da regolare per una consistenza cremosa",
+      "1 cucchiaio da dessert di pasta d'aglio",
+      "Sale, pepe e aglio in polvere a piacere"
+    ],
+    "steps": [
+      [
+        "Prepara le patate",
+        "Taglia le patate dolci a fette sottili e uniformi. Per velocizzare, precuocile in acqua bollente per 5–10 minuti, finché appena morbide."
+      ],
+      [
+        "Salta le verdure",
+        "Scalda l'olio in padella e fai appassire cipolla, aglio e porro. Unisci gli spinaci, condisci e cuoci finché si riducono di volume."
+      ],
+      [
+        "Prepara la salsa",
+        "Frulla fiocchi di latte, yogurt e latte fino a ottenere una salsa liscia e cremosa. Regola condimenti e latte fino alla consistenza desiderata."
+      ],
+      [
+        "Assembla il gratin",
+        "In una pirofila alterna patata dolce, merluzzo, verdure e parte della salsa. Ripeti gli strati se necessario e termina con salsa e formaggio grattugiato. Cuoci in forno preriscaldato a 180 °C per 35–45 minuti, fino a doratura e cottura completa."
+      ]
+    ],
+    "id": "gratin-di-merluzzo-e-patate-dolci",
+    "minutes": 50,
+    "time": "50 min",
+    "portions": 6,
+    "portionLabel": "6 porzioni",
+    "calories": 375,
+    "protein": 49.0,
+    "carbs": 25.0,
+    "fat": 7.0,
+    "image": "images/99.webp",
+    "video": "https://youtube.com/shorts/6Wq0mcLHmoM?feature=share",
+    "sourcePages": [
+      98,
+      99
+    ],
+    "group": "main",
+    "categories": [
+      "pranzo",
+      "cena"
+    ],
+    "taste": "salato",
+    "label": "Pranzo / Cena",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 101,
+    "title": "Cannelloni di zucchine",
+    "ingredients": [
+      "1 zucchina, circa 200 g",
+      "500 g di macinato magro di manzo",
+      "100 g di formaggio grattugiato light",
+      "120 g di polpa di pomodoro al 100%",
+      "Sale, pepe, paprika e aglio in polvere"
+    ],
+    "steps": [
+      [
+        "Scalda il forno",
+        "Preriscalda a 180 °C."
+      ],
+      [
+        "Prepara la zucchina",
+        "Lavala e tagliala per il lungo in strisce sottili usando un coltello o un pelapatate. Metti da parte."
+      ],
+      [
+        "Prepara la carne",
+        "Condisci la carne in una ciotola e forma piccole polpette."
+      ],
+      [
+        "Forma gli involtini",
+        "Avvolgi ogni polpetta in una striscia di zucchina e premi leggermente per fermarla, formando involtini compatti."
+      ],
+      [
+        "Assembla",
+        "Distribuisci la polpa di pomodoro sul fondo di una pirofila. Disponi gli involtini uno accanto all'altro."
+      ],
+      [
+        "Cuoci",
+        "Cospargi generosamente con formaggio grattugiato light e inforna per 30–35 minuti, finché la carne è cotta e il formaggio dorato."
+      ]
+    ],
+    "id": "cannelloni-di-zucchine",
+    "minutes": 50,
+    "time": "50 min",
+    "portions": 4,
+    "portionLabel": "4 porzioni",
+    "calories": 205,
+    "protein": 32.0,
+    "carbs": 4.3,
+    "fat": 6.5,
+    "image": "images/101.webp",
+    "video": "https://youtube.com/shorts/ChRkcFAcRqk?feature=share",
+    "sourcePages": [
+      100,
+      101
+    ],
+    "group": "main",
+    "categories": [
+      "pranzo",
+      "cena"
+    ],
+    "taste": "salato",
+    "label": "Pranzo / Cena",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 103,
+    "title": "Pizza con base di pollo",
+    "ingredients": [
+      "500 g di pollo macinato",
+      "2 uova",
+      "Sale, pepe, paprika e aglio in polvere",
+      "#Condimento",
+      "100 g di polpa di pomodoro",
+      "80 g di formaggio grattugiato light",
+      "#Aggiunte facoltative, non incluse nei macronutrienti",
+      "Mozzarella light o feta",
+      "Spinaci",
+      "Olive"
+    ],
+    "steps": [
+      [
+        "Prepara la base",
+        "Mescola pollo, uova e condimenti in una ciotola. Stendi su una teglia rivestita di carta forno formando una base sottile e uniforme."
+      ],
+      [
+        "Precuoci",
+        "Cuoci in forno preriscaldato a 180 °C per 25–30 minuti, finché la base è soda e leggermente dorata."
+      ],
+      [
+        "Condisci",
+        "Sforna e aggiungi polpa di pomodoro, formaggio grattugiato e gli ingredienti a piacere."
+      ],
+      [
+        "Completa",
+        "Rimetti in forno per circa 15 minuti, finché il formaggio si scioglie e si dora leggermente."
+      ]
+    ],
+    "id": "pizza-con-base-di-pollo",
+    "minutes": 40,
+    "time": "40 min",
+    "portions": 4,
+    "portionLabel": "4 fette",
+    "calories": 221,
+    "protein": 34.0,
+    "carbs": 2.5,
+    "fat": 7.3,
+    "image": "images/103.webp",
+    "video": "https://youtube.com/shorts/IzEMLJ6PQOk?feature=share",
+    "sourcePages": [
+      102,
+      103
+    ],
+    "group": "main",
+    "categories": [
+      "pranzo",
+      "cena"
+    ],
+    "taste": "salato",
+    "label": "Pranzo / Cena",
+    "nutritionBasis": "Per fetta"
+  },
+  {
+    "page": 105,
+    "title": "Kebab leggero fatto in casa",
+    "ingredients": [
+      "#Kebab",
+      "1 kg di macinato magro di manzo",
+      "1 cipolla",
+      "1 peperone rosso",
+      "3 spicchi d'aglio",
+      "Prezzemolo tritato a piacere",
+      "Sale, aglio in polvere, pepe e paprika a piacere",
+      "5 piadine integrali da 40 g ciascuna",
+      "#Insalata",
+      "1 cetriolo, circa 300 g",
+      "1/2 cipolla rossa, circa 75 g",
+      "100 g di pomodorini",
+      "1 cucchiaino di sale",
+      "Un filo di miele o sciroppo d'acero 0%",
+      "Un filo d'aceto",
+      "#Salsa",
+      "120 g di yogurt greco magro",
+      "Succo di 1/2 limone",
+      "Prezzemolo tritato a piacere",
+      "Sale, pepe, paprika e aglio in polvere"
+    ],
+    "steps": [
+      [
+        "Prepara e cuoci la carne",
+        "Trita cipolla, peperone e aglio. Mescola con carne, prezzemolo e spezie. Stendi in una pirofila unta con un filo d'olio, premi bene e incidi in porzioni, come un kibbeh. Cuoci a 180 °C per 30 minuti o fino a cottura completa e doratura."
+      ],
+      [
+        "Prepara l'insalata",
+        "Taglia cetriolo e cipolla rossa a mezze lune e i pomodorini a metà. Condisci con sale, un filo di miele o sciroppo d'acero 0% e aceto. Metti da parte."
+      ],
+      [
+        "Prepara la salsa",
+        "Mescola yogurt, succo di limone, prezzemolo e spezie fino a ottenere una salsa liscia. Regola i condimenti."
+      ],
+      [
+        "Assembla",
+        "Distribuisci carne tagliata, insalata e salsa nelle piadine. Chiudi e servi subito. Se prepari in anticipo, assembla la piadina solo al momento di mangiarla."
+      ]
+    ],
+    "notes": [
+      "Il riepilogo indica 6 porzioni, mentre gli ingredienti elencano 5 piadine. Le quantità originali sono conservate."
+    ],
+    "id": "kebab-leggero-fatto-in-casa",
+    "minutes": 50,
+    "time": "50 min",
+    "portions": 6,
+    "portionLabel": "6 porzioni",
+    "calories": 329,
+    "protein": 38.9,
+    "carbs": 27.3,
+    "fat": 6.6,
+    "image": "images/105.webp",
+    "video": "https://youtube.com/shorts/grMFRAZmGfY?feature=share",
+    "sourcePages": [
+      104,
+      105
+    ],
+    "group": "main",
+    "categories": [
+      "pranzo",
+      "cena"
+    ],
+    "taste": "salato",
+    "label": "Pranzo / Cena",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 107,
+    "title": "Quiche al salmone e spinaci",
+    "ingredients": [
+      "4 filetti di salmone, circa 480 g",
+      "100 g di spinaci",
+      "6 uova",
+      "100 ml di bevanda di mandorla senza zuccheri o altro latte",
+      "Sale, pepe, aglio e cipolla in polvere"
+    ],
+    "steps": [
+      [
+        "Prepara la base",
+        "Ungi una pirofila con un filo d'olio. Taglia il salmone a pezzi e distribuiscilo sul fondo. Copri con metà degli spinaci."
+      ],
+      [
+        "Prepara il composto",
+        "Sbatti uova, latte e spezie fino a ottenere un composto omogeneo. Versa su salmone e spinaci distribuendo uniformemente. Completa con gli spinaci rimasti."
+      ],
+      [
+        "Cuoci",
+        "Inforna in forno preriscaldato a 180 °C per 30–40 minuti, finché il composto è sodo al tatto e la superficie dorata. Lascia riposare 5 minuti prima di servire."
+      ]
+    ],
+    "id": "quiche-al-salmone-e-spinaci",
+    "minutes": 50,
+    "time": "50 min",
+    "portions": 6,
+    "portionLabel": "6 porzioni",
+    "calories": 226,
+    "protein": 25.0,
+    "carbs": 1.0,
+    "fat": 14.2,
+    "image": "images/107.webp",
+    "video": "https://youtube.com/shorts/9N-bJpb2lZA?feature=share",
+    "sourcePages": [
+      106,
+      107
+    ],
+    "group": "main",
+    "categories": [
+      "pranzo",
+      "cena"
+    ],
+    "taste": "salato",
+    "label": "Pranzo / Cena",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 109,
+    "title": "Coni pizza al pollo",
+    "ingredients": [
+      "#Ripieno",
+      "250 g di petto di pollo",
+      "150 g di fiocchi di latte",
+      "100 g di pomodorini, facoltativi",
+      "80 g di mais",
+      "Prezzemolo tritato a piacere",
+      "Sale, pepe, aglio in polvere e paprika",
+      "#Coni",
+      "3 piadine integrali da 40 g ciascuna",
+      "120 g di concentrato o polpa di pomodoro",
+      "Origano a piacere",
+      "60 g di formaggio grattugiato light, facoltativo"
+    ],
+    "steps": [
+      [
+        "Prepara il ripieno",
+        "Cuoci il pollo in acqua bollente con un pizzico di sale per 15–20 minuti, oppure ben condito in friggitrice ad aria o forno a 180 °C per 30 minuti. Sfilaccialo e mescolalo con fiocchi di latte, mais, prezzemolo e condimenti."
+      ],
+      [
+        "Prepara i coni",
+        "Taglia le piadine a metà, arrotolale a cono e fissa con uno stecchino. Disponi su una teglia con carta forno, irrora con olio e cuoci a 180 °C per 15 minuti."
+      ],
+      [
+        "Farcisci",
+        "Sforna i coni e riempili con pomodoro e ripieno. Se vuoi aggiungi formaggio grattugiato sopra."
+      ],
+      [
+        "Completa la cottura",
+        "Cuoci in friggitrice ad aria a 160 °C per 12–15 minuti oppure in forno a 180 °C per 20–25 minuti, finché dorati e leggermente croccanti."
+      ]
+    ],
+    "notes": [
+      "Il riepilogo indica 35 minuti, ma il procedimento prevede più cotture successive, oltre alla preparazione del pollo."
+    ],
+    "id": "coni-pizza-al-pollo",
+    "minutes": 35,
+    "time": "35 min",
+    "portions": 6,
+    "portionLabel": "6 porzioni",
+    "calories": 195,
+    "protein": 21.0,
+    "carbs": 16.0,
+    "fat": 4.0,
+    "image": "images/109.webp",
+    "video": "https://youtube.com/shorts/KbZUif6vNMg?feature=share",
+    "sourcePages": [
+      108,
+      109
+    ],
+    "group": "main",
+    "categories": [
+      "pranzo",
+      "cena"
+    ],
+    "taste": "salato",
+    "label": "Pranzo / Cena",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 111,
+    "title": "Panini al pollo",
+    "ingredients": [
+      "6 uova",
+      "1/2 tazza di fiocchi di latte (100 g)",
+      "3/4 di tazza di farina d'avena, circa 95 g",
+      "1/4 di tazza di farina di mandorle o altra farina d'avena, circa 40 g",
+      "Sale, pepe e aglio in polvere",
+      "1/2 tazza di formaggio grattugiato light",
+      "300 g di pollo sfilacciato",
+      "Pomodorini a piacere o altre verdure e guarnizioni"
+    ],
+    "steps": [
+      [
+        "Prepara il composto",
+        "Riunisci tutti gli ingredienti in una ciotola, condisci bene e mescola."
+      ],
+      [
+        "Forma i panini",
+        "Distribuisci in piccoli stampi rotondi su una teglia rivestita di carta forno e aggiungi formaggio grattugiato light sopra ciascuno."
+      ],
+      [
+        "Cuoci",
+        "Inforna in forno preriscaldato a 180 °C per circa 30–35 minuti e servi."
+      ]
+    ],
+    "id": "panini-al-pollo",
+    "minutes": 40,
+    "time": "40 min",
+    "portions": 8,
+    "portionLabel": "8 porzioni",
+    "calories": 210,
+    "protein": 21.0,
+    "carbs": 9.0,
+    "fat": 9.0,
+    "image": "images/111.webp",
+    "video": "https://youtube.com/shorts/CUDN2tojgNE?feature=share",
+    "sourcePages": [
+      110,
+      111
+    ],
+    "group": "main",
+    "categories": [
+      "pranzo",
+      "cena"
+    ],
+    "taste": "salato",
+    "label": "Pranzo / Cena",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 113,
+    "title": "Pasta al formaggio, pollo e zucca",
+    "ingredients": [
+      "2 petti di pollo (600 g)",
+      "300 g di pasta, peso da cruda",
+      "1 porro",
+      "100 g di formaggio grattugiato light",
+      "Coriandolo a piacere",
+      "#Salsa",
+      "300 g di zucca",
+      "100 g di formaggio spalmabile light",
+      "100 g di fiocchi di latte",
+      "Sale, pepe e aglio in polvere"
+    ],
+    "steps": [
+      [
+        "Cuoci il pollo",
+        "Metti pollo e porro in acqua bollente con un pizzico di sale e cuoci per 12–15 minuti, fino a cottura completa. Scola, fai intiepidire e sfilaccia."
+      ],
+      [
+        "Cuoci pasta e zucca",
+        "Cuoci la pasta in acqua bollente salata per il tempo indicato sulla confezione, lasciandola al dente. Scola e metti da parte. Sbuccia la zucca, tagliala a cubetti e lessala per 10–15 minuti, finché morbida."
+      ],
+      [
+        "Prepara la salsa",
+        "Scola bene la zucca, mettila nel frullatore con gli altri ingredienti della salsa e frulla fino a renderla liscia e cremosa."
+      ],
+      [
+        "Assembla",
+        "In una pirofila mescola pasta, pollo sfilacciato e salsa. Aggiungi coriandolo tritato e amalgama."
+      ],
+      [
+        "Gratina",
+        "Cospargi con formaggio grattugiato e cuoci in forno preriscaldato a 180 °C per 20–25 minuti, finché fuso e dorato."
+      ]
+    ],
+    "id": "pasta-al-formaggio-pollo-e-zucca",
+    "minutes": 40,
+    "time": "40 min",
+    "portions": 6,
+    "portionLabel": "6 porzioni",
+    "calories": 450,
+    "protein": 45.0,
+    "carbs": 45.0,
+    "fat": 9.0,
+    "image": "images/113.webp",
+    "video": "https://youtube.com/shorts/hKuOJbuNlvc?feature=share",
+    "sourcePages": [
+      112,
+      113
+    ],
+    "group": "main",
+    "categories": [
+      "pranzo",
+      "cena"
+    ],
+    "taste": "salato",
+    "label": "Pranzo / Cena",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 115,
+    "title": "Fagottini di zucca e carne",
+    "ingredients": [
+      "200 g di zucca cotta, circa 1 tazza",
+      "1 tazza e mezza di farina d'avena, circa 6 once (circa 170 g)",
+      "Sale a piacere",
+      "#Ripieno a piacere",
+      "300 g di pollo macinato cotto o altra carne",
+      "120 g di formaggio light (6 fette)",
+      "Tuorlo per spennellare, facoltativo"
+    ],
+    "steps": [
+      [
+        "Prepara la zucca",
+        "Cuoci al microonde per circa 7 minuti e schiaccia fino a ottenere un purè."
+      ],
+      [
+        "Prepara l'impasto",
+        "Mescola il purè di zucca con farina d'avena e sale fino a ottenere un impasto modellabile. Se necessario aggiungi altra farina."
+      ],
+      [
+        "Stendi",
+        "Stendi l'impasto in uno strato sottile sulla pellicola."
+      ],
+      [
+        "Farcisci e chiudi",
+        "Riempi con una fetta ripiegata di formaggio e la carne. Chiudi aiutandoti con la pellicola e sigilla i bordi premendo con una forchetta."
+      ],
+      [
+        "Cuoci",
+        "Spennella con tuorlo e cuoci in friggitrice ad aria a 180 °C per 7–10 minuti."
+      ]
+    ],
+    "id": "fagottini-di-zucca-e-carne",
+    "minutes": 40,
+    "time": "40 min",
+    "portions": 6,
+    "portionLabel": "6 porzioni",
+    "calories": 245,
+    "protein": 24.0,
+    "carbs": 22.0,
+    "fat": 5.0,
+    "image": "images/115.webp",
+    "video": "https://youtube.com/shorts/cevnyZc7Zm4?feature=share",
+    "sourcePages": [
+      114,
+      115
+    ],
+    "group": "main",
+    "categories": [
+      "pranzo",
+      "cena"
+    ],
+    "taste": "salato",
+    "label": "Pranzo / Cena",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 117,
+    "title": "Crocchette di pollo con verdure",
+    "ingredients": [
+      "600 g di petto di pollo",
+      "1/2 zucchina",
+      "1 carota",
+      "Sale, pepe, paprika e aglio in polvere",
+      "60 g di corn flakes senza zuccheri oppure Parmigiano"
+    ],
+    "steps": [
+      [
+        "Prepara gli ingredienti",
+        "Trita finemente il petto di pollo. Grattugia zucchina e carota e strizzale bene per eliminare l'acqua: evita che l'impasto sia troppo umido e aiuta a mantenere la forma."
+      ],
+      [
+        "Forma le crocchette",
+        "Mescola pollo tritato, verdure e condimenti in una ciotola fino a ottenere un composto omogeneo. Dividi in porzioni uguali e forma dei rotolini, premendo bene per compattarli e chiuderli."
+      ],
+      [
+        "Impana e cuoci",
+        "Disponi su una teglia con carta forno. Ricopri con corn flakes tritati, premendo per far aderire. Cuoci in forno preriscaldato a 180 °C per 30 minuti, girando a metà cottura, finché dorate e croccanti fuori."
+      ]
+    ],
+    "notes": [
+      "I macronutrienti sono calcolati per la versione con corn flakes e cambiano usando il Parmigiano.",
+      "Il titolo originale parla di crocchette ripiene, ma non indica un ripieno separato: le verdure vengono mescolate al pollo."
+    ],
+    "id": "crocchette-di-pollo-con-verdure",
+    "minutes": 40,
+    "time": "40 min",
+    "portions": 7,
+    "portionLabel": "7 pezzi",
+    "calories": 136,
+    "protein": 19.0,
+    "carbs": 8.9,
+    "fat": 1.0,
+    "image": "images/117.webp",
+    "video": "https://youtube.com/shorts/4-Ov53q3PM4?feature=share",
+    "sourcePages": [
+      116,
+      117
+    ],
+    "group": "main",
+    "categories": [
+      "pranzo",
+      "cena"
+    ],
+    "taste": "salato",
+    "label": "Pranzo / Cena",
+    "nutritionBasis": "Per pezzo"
+  },
+  {
+    "page": 119,
+    "title": "Quiche di pollo e verdure",
+    "ingredients": [
+      "5 uova",
+      "2 petti di pollo medi (550 g)",
+      "100 g di funghi",
+      "100 g di carota grattugiata",
+      "100 g di spinaci o altre verdure a scelta",
+      "100 g di fiocchi di latte oppure yogurt magro o vegetale",
+      "80 g di formaggio grattugiato light per la copertura",
+      "Sale, pepe, paprika e aglio in polvere a piacere"
+    ],
+    "steps": [
+      [
+        "Prepara il pollo",
+        "Taglia il petto di pollo a piccoli pezzi e condisci bene."
+      ],
+      [
+        "Mescola",
+        "Riunisci pollo, uova, funghi, carote, spinaci, fiocchi di latte e condimenti in una ciotola e amalgama bene. Il libro indica i fiocchi di latte come facoltativi nel procedimento."
+      ],
+      [
+        "Cuoci",
+        "Versa in una pirofila rivestita di carta forno, cospargi con formaggio grattugiato e cuoci in forno preriscaldato a 180 °C per 35–40 minuti, finché sodo e completamente cotto al centro."
+      ]
+    ],
+    "id": "quiche-di-pollo-e-verdure",
+    "minutes": 50,
+    "time": "50 min",
+    "portions": 5,
+    "portionLabel": "5 porzioni",
+    "calories": 260,
+    "protein": 34.0,
+    "carbs": 5.0,
+    "fat": 10.0,
+    "image": "images/119.webp",
+    "video": "https://www.youtube.com/shorts/t6k36syO60U",
+    "sourcePages": [
+      118,
+      119
+    ],
+    "group": "main",
+    "categories": [
+      "pranzo",
+      "cena"
+    ],
+    "taste": "salato",
+    "label": "Pranzo / Cena",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 121,
+    "title": "Torta salata al pollo sfilacciato",
+    "ingredients": [
+      "3 uova",
+      "240 ml di bevanda di mandorla senza zuccheri o altro latte",
+      "1 tazza di tapioca idratata (120 g)",
+      "500 g di pollo sfilacciato",
+      "90 g di mais",
+      "Prezzemolo tritato a piacere",
+      "1 cipolla tritata",
+      "2 carote tritate",
+      "120 g di yogurt greco magro",
+      "100 g di formaggio grattugiato light per la copertura",
+      "Sale, pepe, aglio in polvere e paprika a piacere"
+    ],
+    "steps": [
+      [
+        "Prepara il pollo",
+        "Cuoci il pollo in acqua bollente con un pizzico di sale per 12–15 minuti. Sfilaccialo e mescola con parte dello yogurt greco e le spezie, fino a renderlo ben condito e succoso."
+      ],
+      [
+        "Prepara la base",
+        "Sbatti uova e latte in una ciotola, aggiungi tapioca e condisci con sale, pepe e aglio in polvere."
+      ],
+      [
+        "Unisci gli ingredienti",
+        "Mescola bene e aggiungi pollo, mais, cipolla, carote, prezzemolo e yogurt rimasto. Amalgama e regola i condimenti."
+      ],
+      [
+        "Cuoci",
+        "Completa con formaggio grattugiato light e inforna in forno preriscaldato a 180 °C per 45–50 minuti."
+      ]
+    ],
+    "id": "torta-salata-al-pollo-sfilacciato",
+    "minutes": 60,
+    "time": "1 ora",
+    "portions": 6,
+    "portionLabel": "6 porzioni",
+    "calories": 367,
+    "protein": 38.0,
+    "carbs": 35.0,
+    "fat": 7.5,
+    "image": "images/121.webp",
+    "video": "https://youtube.com/shorts/8zcMFYx81kI?feature=share",
+    "sourcePages": [
+      120,
+      121
+    ],
+    "group": "main",
+    "categories": [
+      "pranzo",
+      "cena"
+    ],
+    "taste": "salato",
+    "label": "Pranzo / Cena",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 123,
+    "title": "Quiche di patate e pollo",
+    "ingredients": [
+      "2 petti di pollo, circa 600 g",
+      "5 patate medie",
+      "2 spicchi d'aglio",
+      "Un filo d'olio d'oliva",
+      "5 cucchiai di yogurt greco magro",
+      "Formaggio grattugiato light a piacere",
+      "Sale, pepe, paprika e aglio in polvere a piacere",
+      "Tabasco, facoltativo",
+      "Pomodorini a piacere",
+      "Funghi a piacere",
+      "#Salsa",
+      "4 uova",
+      "2 cucchiai di formaggio spalmabile light o yogurt bianco",
+      "Sale, pepe e aglio in polvere a piacere"
+    ],
+    "steps": [
+      [
+        "Cuoci le patate",
+        "Lessa in acqua bollente per circa 20–25 minuti, finché molto tenere alla forchetta, oppure cuoci al microonde per 8–9 minuti."
+      ],
+      [
+        "Cuoci il pollo",
+        "Lessa in acqua bollente con un pizzico di sale per 12–15 minuti, fino a cottura completa, poi sfilaccia."
+      ],
+      [
+        "Salta il pollo",
+        "Scalda olio e aglio tritato in padella, aggiungi il pollo e fallo saltare. Unisci yogurt e condimenti e mescola fino a renderlo cremoso. Puoi anche mescolare direttamente pollo, yogurt e condimenti, ma saltarlo dà più sapore."
+      ],
+      [
+        "Prepara la base",
+        "Metti le patate cotte in una pirofila con carta forno e schiacciale formando una base uniforme. Condisci con olio e sale e cuoci a 180 °C per 15 minuti o fino a doratura."
+      ],
+      [
+        "Assembla",
+        "Distribuisci il pollo sulla base. Mescola uova, formaggio spalmabile, sale e pepe e versa uniformemente sul pollo."
+      ],
+      [
+        "Completa",
+        "Cospargi con formaggio grattugiato e cuoci a 180 °C per circa 20–25 minuti, finché sodo e dorato."
+      ]
+    ],
+    "notes": [
+      "Pomodorini, funghi e Tabasco sono elencati tra gli ingredienti, ma il procedimento originale non ne specifica l'inserimento."
+    ],
+    "id": "quiche-di-patate-e-pollo",
+    "minutes": 50,
+    "time": "50 min",
+    "portions": 5,
+    "portionLabel": "5 porzioni",
+    "calories": 350,
+    "protein": 31.0,
+    "carbs": 30.0,
+    "fat": 11.0,
+    "image": "images/123.webp",
+    "video": "https://youtube.com/shorts/4dLjDS0CgoY?feature=share",
+    "sourcePages": [
+      122,
+      123
+    ],
+    "group": "main",
+    "categories": [
+      "pranzo",
+      "cena"
+    ],
+    "taste": "salato",
+    "label": "Pranzo / Cena",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 125,
+    "title": "Pasta al salmone al forno",
+    "ingredients": [
+      "4 tranci di salmone",
+      "1 confezione di pomodorini",
+      "Spinaci a piacere",
+      "5 formaggini light",
+      "300 g di pasta cotta",
+      "Basilico fresco",
+      "Un filo d'olio d'oliva",
+      "Sale, pepe, aglio in polvere e origano"
+    ],
+    "steps": [
+      [
+        "Prepara la pirofila",
+        "Preriscalda il forno a 180 °C (350 °F nel libro). Metti salmone, pomodorini, spinaci e formaggini in una pirofila. Condisci con sale, pepe, aglio in polvere, origano e olio."
+      ],
+      [
+        "Cuoci",
+        "Inforna per 25–30 minuti, finché il salmone è cotto e il formaggio sciolto forma una salsa cremosa."
+      ],
+      [
+        "Cuoci la pasta",
+        "Nel frattempo cuoci la pasta in acqua bollente con un pizzico di sale per 8–10 minuti o secondo la confezione. Scola."
+      ],
+      [
+        "Prepara il condimento",
+        "Sforna, sfalda leggermente il salmone e mescola tutto per amalgamare la salsa."
+      ],
+      [
+        "Completa",
+        "Aggiungi la pasta cotta, mescola bene e completa con foglie di basilico fresco prima di servire."
+      ]
+    ],
+    "id": "pasta-al-salmone-al-forno",
+    "minutes": 50,
+    "time": "50 min",
+    "portions": 4,
+    "portionLabel": "4 porzioni",
+    "calories": 354,
+    "protein": 28.0,
+    "carbs": 24.0,
+    "fat": 16.0,
+    "image": "images/125.webp",
+    "video": "https://youtube.com/shorts/bBcXTCLSfeE?feature=share",
+    "sourcePages": [
+      124,
+      125
+    ],
+    "group": "main",
+    "categories": [
+      "pranzo",
+      "cena"
+    ],
+    "taste": "salato",
+    "label": "Pranzo / Cena",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 127,
+    "title": "Crocchette di pollo sfilacciato ripiene",
+    "ingredients": [
+      "4 petti di pollo (1 kg)",
+      "200 g di yogurt greco magro",
+      "Sale, pepe, paprika e aglio in polvere",
+      "8 formaggini light oppure 120 g di formaggio spalmabile light",
+      "10 fette di formaggio light",
+      "2 uova",
+      "Circa 100 g di corn flakes senza zuccheri"
+    ],
+    "steps": [
+      [
+        "Cuoci il pollo",
+        "Lessa i petti in acqua bollente con un pizzico di sale per 15–20 minuti, oppure cuocili ben conditi in friggitrice ad aria o forno a 180 °C per 30 minuti. Sfilaccia subito dopo."
+      ],
+      [
+        "Prepara il composto",
+        "Mescola pollo e yogurt e condisci bene. Aggiungi formaggini o formaggio spalmabile e amalgama."
+      ],
+      [
+        "Forma e farcisci",
+        "Forma delle palline inserendo al centro il formaggio a fette. Passa nell'uovo e poi nei corn flakes tritati."
+      ],
+      [
+        "Cuoci",
+        "Cuoci in friggitrice ad aria a 180 °C per 20 minuti oppure in forno a 180 °C per 30 minuti. Servi con maionese leggera o altra salsa."
+      ]
+    ],
+    "id": "crocchette-di-pollo-sfilacciato-ripiene",
+    "minutes": 35,
+    "time": "35 min",
+    "portions": 10,
+    "portionLabel": "10 porzioni",
+    "calories": 290,
+    "protein": 41.0,
+    "carbs": 10.0,
+    "fat": 7.0,
+    "image": "images/127.webp",
+    "video": "https://youtube.com/shorts/UQuG8ECl4Xo",
+    "sourcePages": [
+      126,
+      127
+    ],
+    "group": "main",
+    "categories": [
+      "pranzo",
+      "cena"
+    ],
+    "taste": "salato",
+    "label": "Pranzo / Cena",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 129,
+    "title": "Salmone ripieno di spinaci",
+    "ingredients": [
+      "4 filetti di salmone (500 g)",
+      "1 confezione di spinaci (150 g)",
+      "40 g di formaggio spalmabile light",
+      "1 limone, succo e scorza",
+      "1 spicchio d'aglio tritato",
+      "Un filo d'olio d'oliva",
+      "Sale e pepe"
+    ],
+    "steps": [
+      [
+        "Prepara il ripieno",
+        "In una padella con olio e aglio tritato salta gli spinaci finché si riducono di volume. Condisci bene con sale e pepe. Togli dal fuoco e mescola in una ciotola con il formaggio spalmabile."
+      ],
+      [
+        "Farcisci il salmone",
+        "Disponi i filetti su una teglia e incidi ciascuno a metà per creare spazio per il ripieno. Farcisci con il composto di spinaci e formaggio."
+      ],
+      [
+        "Condisci e cuoci",
+        "Condisci con sale, pepe, succo e scorza di limone. Cuoci in forno preriscaldato a 180 °C per 25–30 minuti."
+      ]
+    ],
+    "id": "salmone-ripieno-di-spinaci",
+    "minutes": 40,
+    "time": "40 min",
+    "portions": 4,
+    "portionLabel": "4 porzioni",
+    "calories": 255,
+    "protein": 29.0,
+    "carbs": 2.4,
+    "fat": 14.7,
+    "image": "images/129.webp",
+    "video": "https://youtube.com/shorts/udI3MRSKzz4?feature=share",
+    "sourcePages": [
+      128,
+      129
+    ],
+    "group": "main",
+    "categories": [
+      "pranzo",
+      "cena"
+    ],
+    "taste": "salato",
+    "label": "Pranzo / Cena",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 131,
+    "title": "Cestini di patate al pollo",
+    "ingredients": [
+      "400 g di patate cotte",
+      "50 g di farina d'avena",
+      "1 uovo",
+      "Sale, pepe e aglio in polvere a piacere",
+      "Un filo d'olio d'oliva",
+      "#Ripieno incluso nei macronutrienti",
+      "140 g di pollo cotto macinato o sfilacciato",
+      "80 g di formaggio grattugiato light"
+    ],
+    "steps": [
+      [
+        "Cuoci le patate",
+        "Lessa per 25 minuti oppure cuoci al microonde per 8–10 minuti, finché tenere."
+      ],
+      [
+        "Prepara l'impasto",
+        "Schiaccia le patate e mescola con spezie, farina d'avena e uovo. Forma piccoli cestini da farcire. Aggiungi altra farina se serve, senza esagerare per non seccare l'impasto."
+      ],
+      [
+        "Precuoci",
+        "Irrora con olio e cuoci in friggitrice ad aria a 180 °C per 15 minuti oppure in forno per 20 minuti."
+      ],
+      [
+        "Farcisci e completa",
+        "Riempi con pollo già cotto e tritato o sfilacciato, oppure altro ripieno a scelta. Aggiungi formaggio grattugiato e rimetti in friggitrice ad aria per 5–7 minuti, finché fuso, oppure in forno per 10–15 minuti."
+      ]
+    ],
+    "id": "cestini-di-patate-al-pollo",
+    "minutes": 30,
+    "time": "30 min",
+    "portions": 4,
+    "portionLabel": "4 porzioni",
+    "calories": 220,
+    "protein": 16.5,
+    "carbs": 25.0,
+    "fat": 6.0,
+    "image": "images/131.webp",
+    "video": "https://youtube.com/shorts/JG4zUnUL9Og?is=alipD8xDQ8SNX6Y8",
+    "sourcePages": [
+      130,
+      131
+    ],
+    "group": "main",
+    "categories": [
+      "pranzo",
+      "cena"
+    ],
+    "taste": "salato",
+    "label": "Pranzo / Cena",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 133,
+    "title": "Involtini di pollo ripieni",
+    "ingredients": [
+      "10 fettine di petto di pollo",
+      "Sale, pepe e aglio in polvere",
+      "2 tuorli",
+      "100 g di formaggio light a fette (5 fette)",
+      "#Ripieno",
+      "Un filo d'olio d'oliva",
+      "1 cipolla",
+      "2 spicchi d'aglio",
+      "150 g di funghi portobello tritati",
+      "1 confezione di spinaci",
+      "Sale, pepe e aglio in polvere"
+    ],
+    "steps": [
+      [
+        "Prepara il ripieno",
+        "Metti olio e tutti gli ingredienti del ripieno tritati in una casseruola. Condisci, copri e cuoci a fuoco medio."
+      ],
+      [
+        "Farcisci le fettine",
+        "Condisci il pollo e distribuisci al centro di ogni fettina un cucchiaio di ripieno. Aggiungi mezza fetta di formaggio e richiudi formando una specie di pallina."
+      ],
+      [
+        "Cuoci",
+        "Disponi su una teglia con carta forno, spennella con tuorlo e cuoci in forno preriscaldato a 180 °C per 20–25 minuti, facendo attenzione a non asciugare troppo la carne."
+      ]
+    ],
+    "id": "involtini-di-pollo-ripieni",
+    "minutes": 30,
+    "time": "30 min",
+    "portions": 10,
+    "portionLabel": "10 porzioni",
+    "calories": 220,
+    "protein": 35.0,
+    "carbs": 3.0,
+    "fat": 6.0,
+    "image": "images/133.webp",
+    "video": "https://youtu.be/t4nrNLCaD2I",
+    "sourcePages": [
+      132,
+      133
+    ],
+    "group": "main",
+    "categories": [
+      "pranzo",
+      "cena"
+    ],
+    "taste": "salato",
+    "label": "Pranzo / Cena",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 137,
+    "title": "Torta di biscotti al caffè",
+    "ingredients": [
+      "150 g di formaggio spalmabile",
+      "150 g di budino proteico al caffè",
+      "3 fogli di gelatina",
+      "1 cucchiaio di estratto di vaniglia, facoltativo",
+      "1 confezione di biscotti Maria senza zuccheri",
+      "Caffè solubile",
+      "Dolcificante liquido quanto basta"
+    ],
+    "steps": [
+      [
+        "Prepara la gelatina",
+        "Ammolla i fogli in acqua fredda per 5 minuti. Strizza bene e sciogli al microonde per 30 secondi. Metti da parte."
+      ],
+      [
+        "Prepara la crema",
+        "Con le fruste elettriche monta formaggio spalmabile e budino proteico al caffè fino a ottenere una crema liscia. Unisci gelatina sciolta, vaniglia e dolcificante a piacere e amalgama bene."
+      ],
+      [
+        "Prepara il caffè",
+        "Prepara un caffè solubile forte e lascialo intiepidire."
+      ],
+      [
+        "Assembla",
+        "Rivesti una ciotola o uno stampo con pellicola. Alterna biscotti immersi velocemente nel caffè e crema fino a esaurire gli ingredienti, terminando con la crema. Lascia in frigorifero tutta la notte."
+      ]
+    ],
+    "notes": [
+      "I 35 minuti del riepilogo non includono il riposo in frigorifero per tutta la notte."
+    ],
+    "id": "torta-di-biscotti-al-caffe",
+    "minutes": 35,
+    "time": "35 min",
+    "portions": 5,
+    "portionLabel": "5 fette",
+    "calories": 198,
+    "protein": 10.0,
+    "carbs": 26.0,
+    "fat": 6.0,
+    "image": "images/137.webp",
+    "video": "https://youtube.com/shorts/kIypVJe2kwo?feature=share",
+    "sourcePages": [
+      136,
+      137
+    ],
+    "group": "dessert",
+    "categories": [
+      "spuntini"
+    ],
+    "taste": "dolce",
+    "label": "Dessert",
+    "nutritionBasis": "Per fetta"
+  },
+  {
+    "page": 139,
+    "title": "Brownie alle zucchine",
+    "ingredients": [
+      "1 zucchina, circa 200 g",
+      "2 uova",
+      "1 tazza di avena oppure 100 g di farina d'avena",
+      "1/2 tazza di cacao in polvere (60 g)",
+      "30 g di farina di mandorle o altra farina d'avena",
+      "150 ml di bevanda di mandorla",
+      "5 ml di estratto di vaniglia",
+      "10 g di cioccolato fondente a pezzetti",
+      "1 cucchiaino di lievito",
+      "2 cucchiai di stevia o altro dolcificante",
+      "Un pizzico di sale",
+      "#Copertura facoltativa, non inclusa nei macronutrienti",
+      "30 g di proteine in polvere al cioccolato",
+      "10 g di cacao amaro in polvere",
+      "Latte o bevanda vegetale quanto basta per una consistenza simile a uno sciroppo"
+    ],
+    "steps": [
+      [
+        "Prepara la zucchina",
+        "Grattugia e strizza con un canovaccio o carta assorbente per eliminare l'acqua in eccesso."
+      ],
+      [
+        "Prepara l'impasto",
+        "Mescola zucchina, uova, bevanda di mandorla e vaniglia. Aggiungi avena tritata o farina d'avena, cacao, farina di mandorle, lievito, stevia e sale. Amalgama fino a ottenere un composto uniforme."
+      ],
+      [
+        "Versa nello stampo",
+        "Trasferisci in una teglia rivestita di carta forno e distribuisci il cioccolato a pezzetti in superficie."
+      ],
+      [
+        "Cuoci",
+        "Inforna in forno preriscaldato a 180 °C per 30–35 minuti, finché sodo fuori e leggermente umido dentro."
+      ]
+    ],
+    "id": "brownie-alle-zucchine",
+    "minutes": 45,
+    "time": "45 min",
+    "portions": 8,
+    "portionLabel": "8 porzioni",
+    "calories": 123,
+    "protein": 6.4,
+    "carbs": 14.2,
+    "fat": 5.8,
+    "image": "images/139.webp",
+    "video": "https://youtube.com/shorts/kljS1umjXYY?feature=share",
+    "sourcePages": [
+      138,
+      139
+    ],
+    "group": "dessert",
+    "categories": [
+      "spuntini"
+    ],
+    "taste": "dolce",
+    "label": "Dessert",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 141,
+    "title": "Brownie alla patata dolce",
+    "ingredients": [
+      "1 patata dolce media, circa 300 g",
+      "3 uova",
+      "30 g di farina d'avena",
+      "30 g di proteine in polvere al cioccolato oppure 30 g di latte scremato in polvere",
+      "30 g di cacao magro in polvere",
+      "1 cucchiaino di lievito",
+      "Un pizzico di sale grosso",
+      "Dolcificante a piacere, facoltativo: stevia, miele o sciroppo d'acero"
+    ],
+    "steps": [
+      [
+        "Cuoci la patata",
+        "Sbuccia la patata dolce e cuoci al microonde per circa 8 minuti oppure in acqua bollente per circa 20 minuti."
+      ],
+      [
+        "Prepara l'impasto",
+        "Schiaccia la patata e mescola bene con gli altri ingredienti."
+      ],
+      [
+        "Aggiungi il cioccolato, se vuoi",
+        "Puoi aggiungere gocce di cioccolato fondente e, se necessario, altro dolcificante."
+      ],
+      [
+        "Cuoci",
+        "Versa in una pirofila rivestita di carta forno e inforna in forno preriscaldato a 180 °C per circa 35 minuti."
+      ],
+      [
+        "Servi",
+        "Lascia raffreddare prima di tagliare e servire."
+      ]
+    ],
+    "id": "brownie-alla-patata-dolce",
+    "minutes": 45,
+    "time": "45 min",
+    "portions": 8,
+    "portionLabel": "8 porzioni",
+    "calories": 87,
+    "protein": 7.0,
+    "carbs": 10.0,
+    "fat": 2.0,
+    "image": "images/141.webp",
+    "video": "https://youtu.be/NPUMucFW--o",
+    "sourcePages": [
+      140,
+      141
+    ],
+    "group": "dessert",
+    "categories": [
+      "spuntini"
+    ],
+    "taste": "dolce",
+    "label": "Dessert",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 143,
+    "title": "Muffin al cioccolato e verdure",
+    "ingredients": [
+      "120 g di carota grattugiata",
+      "120 g di zucchina grattugiata",
+      "30 g di spinacini",
+      "150 g di yogurt greco magro 0%",
+      "80 ml di sciroppo d'acero 0% o altro dolcificante",
+      "2 uova",
+      "150 g di farina d'avena",
+      "40 g di cacao magro in polvere",
+      "60 g di proteine in polvere al cioccolato o altro gusto, oppure 50 g di farina d'avena",
+      "5 g di lievito",
+      "Un pizzico di sale",
+      "Gocce di cioccolato fondente senza zuccheri, facoltative",
+      "5 ml di estratto di vaniglia, facoltativo"
+    ],
+    "steps": [
+      [
+        "Scalda il forno",
+        "Preriscalda a 180 °C. Prepara uno stampo da 12 muffin ungendolo con olio d'oliva oppure usa uno stampo di silicone."
+      ],
+      [
+        "Mescola gli ingredienti secchi",
+        "Mescola farina d'avena, cacao, proteine, lievito e sale e metti da parte."
+      ],
+      [
+        "Frulla gli ingredienti umidi",
+        "Frulla carota, zucchina, spinaci, yogurt, dolcificante, uova e vaniglia fino a ottenere un composto completamente liscio."
+      ],
+      [
+        "Unisci i composti",
+        "Versa il composto umido sugli ingredienti secchi e incorpora delicatamente, solo quanto basta per amalgamare. Se le usi, aggiungi le gocce di cioccolato con una spatola."
+      ],
+      [
+        "Cuoci",
+        "Distribuisci nei 12 stampini e aggiungi gocce di cioccolato in superficie. Inforna per 20–25 minuti, controllando dopo 18 minuti con uno stecchino: deve uscire pulito."
+      ],
+      [
+        "Lascia raffreddare",
+        "Fai raffreddare prima di sformare, per evitare che i muffin si rompano."
+      ]
+    ],
+    "id": "muffin-al-cioccolato-e-verdure",
+    "minutes": 30,
+    "time": "30 min",
+    "portions": 12,
+    "portionLabel": "12 porzioni",
+    "calories": 102,
+    "protein": 9.0,
+    "carbs": 11.4,
+    "fat": 2.0,
+    "image": "images/143.webp",
+    "video": "https://youtube.com/shorts/6j6yAka3xos?feature=share",
+    "sourcePages": [
+      142,
+      143
+    ],
+    "group": "dessert",
+    "categories": [
+      "spuntini"
+    ],
+    "taste": "dolce",
+    "label": "Dessert",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 145,
+    "title": "Cheesecake allo yogurt",
+    "ingredients": [
+      "#Base",
+      "75 g di fiocchi d'avena o biscotti leggeri tritati",
+      "60 ml di albumi",
+      "2 cucchiai di sciroppo d'acero o miele",
+      "#Crema",
+      "90 g di formaggio spalmabile light",
+      "2 uova",
+      "200 g di yogurt greco magro",
+      "60 ml di albumi, circa 2 albumi",
+      "30 g di proteine in polvere al biscotto o alla vaniglia, oppure latte scremato in polvere o farina di mais",
+      "#Guarnizione",
+      "Lamponi schiacciati o altra frutta a scelta",
+      "Un filo di miele o altro dolcificante, facoltativo"
+    ],
+    "steps": [
+      [
+        "Prepara la base",
+        "Mescola avena, albumi e sciroppo d'acero fino a ottenere un impasto omogeneo e modellabile. Premi sul fondo di uno stampo rivestito di carta forno formando una base uniforme. Metti da parte."
+      ],
+      [
+        "Prepara la crema",
+        "Sbatti formaggio spalmabile e uova fino a ottenere una crema. Unisci yogurt greco, albumi e proteine in polvere e mescola fino a eliminare i grumi."
+      ],
+      [
+        "Cuoci",
+        "Versa la crema sulla base e inforna in forno preriscaldato a 160 °C per 35–40 minuti."
+      ],
+      [
+        "Raffredda e servi",
+        "Lascia raffreddare completamente prima di sformare. Metti in frigorifero almeno 2 ore prima di servire. Taglia in 5 fette e completa con la guarnizione scelta."
+      ]
+    ],
+    "notes": [
+      "Il riepilogo indica 2 ore; il procedimento richiede almeno 2 ore in frigorifero oltre a cottura e raffreddamento."
+    ],
+    "id": "cheesecake-allo-yogurt",
+    "minutes": 120,
+    "time": "2 ore",
+    "portions": 5,
+    "portionLabel": "5 porzioni",
+    "calories": 197,
+    "protein": 17.0,
+    "carbs": 17.4,
+    "fat": 6.1,
+    "image": "images/145.webp",
+    "video": "https://youtube.com/shorts/1q5YBbp1KK8?feature=share",
+    "sourcePages": [
+      144,
+      145
+    ],
+    "group": "dessert",
+    "categories": [
+      "spuntini"
+    ],
+    "taste": "dolce",
+    "label": "Dessert",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 147,
+    "title": "Banoffee allo yogurt",
+    "ingredients": [
+      "#Base",
+      "240 g di avena tritata",
+      "150 g di yogurt greco magro",
+      "4 cucchiai di dolcificante a scelta, per esempio sciroppo d'acero",
+      "#Caramello",
+      "60 g di burro di arachidi in polvere oppure 90 g di burro di arachidi normale",
+      "2 cucchiai di sciroppo d'acero",
+      "Un pizzico di sale",
+      "#Ripieno",
+      "2 banane mature a fette",
+      "400 g di yogurt greco magro",
+      "80 g di formaggio spalmabile light",
+      "40 g di proteine in polvere o latte scremato in polvere",
+      "1 cucchiaino di estratto di vaniglia, facoltativo",
+      "#Copertura",
+      "Cacao magro in polvere quanto basta"
+    ],
+    "steps": [
+      [
+        "Prepara la base",
+        "Mescola avena, yogurt greco e dolcificante fino a ottenere un impasto modellabile. Premi sul fondo di uno stampo o di coppette e metti in frigorifero mentre prepari il resto."
+      ],
+      [
+        "Prepara il caramello",
+        "Mescola burro di arachidi, sciroppo d'acero 0% e un pizzico di sale fino a ottenere una crema liscia. Spalma sulla base e distribuisci uniformemente le banane a fette."
+      ],
+      [
+        "Prepara la crema e completa",
+        "Frulla yogurt greco, formaggio spalmabile e proteine in polvere o latte in polvere. Distribuisci generosamente sulle banane. Spolverizza con cacao amaro e lascia in frigorifero almeno 2 ore prima di servire."
+      ]
+    ],
+    "notes": [
+      "I 25 minuti indicati nel riepilogo non comprendono le almeno 2 ore di riposo in frigorifero."
+    ],
+    "id": "banoffee-allo-yogurt",
+    "minutes": 25,
+    "time": "25 min",
+    "portions": 6,
+    "portionLabel": "6 porzioni",
+    "calories": 365,
+    "protein": 21.0,
+    "carbs": 54.0,
+    "fat": 7.2,
+    "image": "images/147.webp",
+    "video": "https://youtube.com/shorts/s7ysNWl4yEU?is=yptsuWiNxc-WhDR_",
+    "sourcePages": [
+      146,
+      147
+    ],
+    "group": "dessert",
+    "categories": [
+      "spuntini"
+    ],
+    "taste": "dolce",
+    "label": "Dessert",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 149,
+    "title": "Cheesecake al cioccolato e tofu",
+    "ingredients": [
+      "240 g di ceci cotti",
+      "55 g di cacao magro in polvere",
+      "400 g di tofu compatto",
+      "8 datteri Medjool denocciolati",
+      "1 cucchiaino di estratto di vaniglia",
+      "240 ml di bevanda di mandorla senza zuccheri o altro latte"
+    ],
+    "steps": [
+      [
+        "Scalda il forno",
+        "Preriscalda a 180 °C e rivesti uno stampo rotondo con carta forno."
+      ],
+      [
+        "Frulla",
+        "Frulla tutti gli ingredienti fino a ottenere un composto completamente liscio e cremoso."
+      ],
+      [
+        "Versa nello stampo",
+        "Versa e livella bene la superficie con una spatola."
+      ],
+      [
+        "Cuoci e raffredda",
+        "Inforna per circa 40 minuti, finché sodo. Lascia raffreddare completamente in frigorifero prima di sformare: almeno 1 ora, passaggio importante."
+      ],
+      [
+        "Completa",
+        "Guarnisci con cacao o frutti rossi prima di servire."
+      ]
+    ],
+    "notes": [
+      "Il libro suggerisce di conservare in frigorifero fino a 4 giorni.",
+      "I 50 minuti del riepilogo non comprendono l'ora minima di raffreddamento indicata nel procedimento."
+    ],
+    "id": "cheesecake-al-cioccolato-e-tofu",
+    "minutes": 50,
+    "time": "50 min",
+    "portions": 6,
+    "portionLabel": "6 porzioni",
+    "calories": 208,
+    "protein": 11.8,
+    "carbs": 34.8,
+    "fat": 4.8,
+    "image": "images/149.webp",
+    "video": "https://youtu.be/C4NiOJU-lzI?is=dXGrVFFOJ0B0lPOm",
+    "sourcePages": [
+      148,
+      149
+    ],
+    "group": "dessert",
+    "categories": [
+      "spuntini"
+    ],
+    "taste": "dolce",
+    "label": "Dessert",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 151,
+    "title": "Cestini al cacao con ripieno cremoso",
+    "ingredients": [
+      "#Base",
+      "2 banane mature",
+      "2 tazze di avena, circa 6 once (circa 170 g) secondo il libro",
+      "1/2 tazza di cacao magro, circa 50 g",
+      "1–2 cucchiai di sciroppo d'acero",
+      "#Ripieno",
+      "1 tazza di yogurt greco senza lattosio, circa 200 g",
+      "2 cucchiai di cacao amaro",
+      "30 g di proteine in polvere, facoltative",
+      "1 cucchiaio di sciroppo d'acero o miele",
+      "#Guarnizioni facoltative",
+      "Fragole a fette",
+      "Mirtilli"
+    ],
+    "steps": [
+      [
+        "Prepara la base",
+        "Schiaccia le banane e mescola con avena, cacao e sciroppo d'acero fino a ottenere un impasto modellabile."
+      ],
+      [
+        "Forma i cestini",
+        "Distribuisci negli stampini di silicone da muffin e premi sul fondo e sui lati per formare dei cestini."
+      ],
+      [
+        "Cuoci",
+        "Cuoci in forno a 180 °C per 12–15 minuti oppure in friggitrice ad aria a 180 °C per 10–12 minuti. Lascia raffreddare completamente."
+      ],
+      [
+        "Prepara il ripieno",
+        "Mescola yogurt, cacao e sciroppo d'acero, oppure proteine in polvere per aumentare l'apporto proteico, fino a ottenere una crema liscia."
+      ],
+      [
+        "Farcisci",
+        "Riempi i cestini con la crema e, se vuoi, guarnisci con fragole e mirtilli."
+      ]
+    ],
+    "id": "cestini-al-cacao-con-ripieno-cremoso",
+    "minutes": 25,
+    "time": "25 min",
+    "portions": 9,
+    "portionLabel": "9 porzioni",
+    "calories": 140,
+    "protein": 6.6,
+    "carbs": 25.8,
+    "fat": 2.0,
+    "image": "images/151.webp",
+    "video": "https://youtu.be/pHk3W4SJ7p8",
+    "sourcePages": [
+      150,
+      151
+    ],
+    "group": "dessert",
+    "categories": [
+      "spuntini"
+    ],
+    "taste": "dolce",
+    "label": "Dessert",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 153,
+    "title": "Ciambelline al cioccolato",
+    "ingredients": [
+      "1 banana",
+      "2 uova",
+      "30 g di proteine in polvere al gusto Ferrero Rocher o cioccolato, oppure latte scremato in polvere",
+      "20 g di cacao magro in polvere",
+      "100 g di fiocchi di latte"
+    ],
+    "steps": [
+      [
+        "Frulla",
+        "Frulla tutti gli ingredienti fino a ottenere un composto liscio."
+      ],
+      [
+        "Riempi gli stampi",
+        "Distribuisci negli stampini di silicone a forma di ciambella."
+      ],
+      [
+        "Cuoci al microonde",
+        "Cuoci per circa 5 minuti, fermandoti ogni 1–2 minuti per controllare ed evitare fuoriuscite. Il tempo varia molto in base alla potenza del microonde: sorveglia attentamente."
+      ]
+    ],
+    "id": "ciambelline-al-cioccolato",
+    "minutes": 7,
+    "time": "7 min",
+    "portions": 6,
+    "portionLabel": "6 porzioni",
+    "calories": 91,
+    "protein": 8.8,
+    "carbs": 6.6,
+    "fat": 3.4,
+    "image": "images/153.webp",
+    "video": "https://youtube.com/shorts/pZS8uw9UhpI?is=-GqLmej-IibRjmH4",
+    "sourcePages": [
+      152,
+      153
+    ],
+    "group": "dessert",
+    "categories": [
+      "spuntini"
+    ],
+    "taste": "dolce",
+    "label": "Dessert",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 155,
+    "title": "Ciambelline al cacao e patata dolce",
+    "ingredients": [
+      "250 g di patata dolce",
+      "2 uova",
+      "1 banana media matura",
+      "30 g di cacao magro in polvere",
+      "5 g di lievito",
+      "2 cucchiai di sciroppo d'acero 0% o altro dolcificante, per esempio miele o stevia"
+    ],
+    "steps": [
+      [
+        "Cuoci la patata",
+        "Cuoci al microonde per 8–9 minuti oppure in forno a 200 °C per 35–40 minuti, finché molto morbida. Lascia raffreddare e preleva la polpa."
+      ],
+      [
+        "Prepara l'impasto",
+        "Schiaccia bene patata dolce e banana in una ciotola. Aggiungi uova, cacao e lievito e mescola fino a ottenere un composto liscio."
+      ],
+      [
+        "Riempi gli stampi",
+        "Distribuisci negli stampini di silicone a forma di ciambella."
+      ],
+      [
+        "Cuoci",
+        "Inforna a 180 °C per circa 20 minuti."
+      ]
+    ],
+    "notes": [
+      "Lo sciroppo è elencato tra gli ingredienti, ma il procedimento originale non specifica quando aggiungerlo. Il tempo riepilogativo di 25 minuti è inferiore alla somma delle cotture descritte."
+    ],
+    "id": "ciambelline-al-cacao-e-patata-dolce",
+    "minutes": 25,
+    "time": "25 min",
+    "portions": 5,
+    "portionLabel": "5 porzioni",
+    "calories": 125,
+    "protein": 4.7,
+    "carbs": 23.0,
+    "fat": 2.5,
+    "image": "images/155.webp",
+    "video": "https://youtube.com/shorts/CnOny6RKM4E?feature=share",
+    "sourcePages": [
+      154,
+      155
+    ],
+    "group": "dessert",
+    "categories": [
+      "spuntini"
+    ],
+    "taste": "dolce",
+    "label": "Dessert",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 157,
+    "title": "Mochi allo yogurt e lamponi",
+    "ingredients": [
+      "3 fogli di carta di riso",
+      "120 g di yogurt greco magro",
+      "15 g di proteine in polvere oppure dolcificante a piacere, per esempio miele",
+      "Lamponi o altra frutta quanto basta"
+    ],
+    "steps": [
+      [
+        "Prepara il ripieno",
+        "Mescola yogurt, proteine in polvere o dolcificante e frutta preferita in una ciotola."
+      ],
+      [
+        "Forma i mochi",
+        "Inumidisci un foglio di carta di riso e mettilo in una ciotola. Quando è malleabile, aggiungi il ripieno e sigilla bene."
+      ],
+      [
+        "Raffredda",
+        "Metti in congelatore per 30 minuti e servi."
+      ]
+    ],
+    "notes": [
+      "I macronutrienti sono calcolati usando proteine in polvere e cambiano se usi dolcificante."
+    ],
+    "id": "mochi-allo-yogurt-e-lamponi",
+    "minutes": 35,
+    "time": "35 min",
+    "portions": 3,
+    "portionLabel": "3 porzioni",
+    "calories": 89,
+    "protein": 10.0,
+    "carbs": 11.0,
+    "fat": 0.8,
+    "image": "images/157.webp",
+    "video": "https://youtube.com/shorts/rcr5NJrL8q0?feature=share",
+    "sourcePages": [
+      156,
+      157
+    ],
+    "group": "dessert",
+    "categories": [
+      "spuntini"
+    ],
+    "taste": "dolce",
+    "label": "Dessert",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 159,
+    "title": "Torta di carote al cioccolato",
+    "ingredients": [
+      "2 carote",
+      "3 uova",
+      "100 g di yogurt greco magro",
+      "60 g di farina d'avena al gusto biscotto Maria oppure farina d'avena normale e dolcificante a scelta",
+      "20 g di cioccolato fondente senza zuccheri",
+      "1 cucchiaino di lievito",
+      "#Salsa inclusa nei macronutrienti",
+      "20 g di cacao magro in polvere",
+      "30 g di yogurt greco magro",
+      "25 g di proteine in polvere al cioccolato oppure latte scremato in polvere o dolcificante a scelta"
+    ],
+    "steps": [
+      [
+        "Prepara la base",
+        "Frulla carote, uova e yogurt fino a ottenere un composto liscio."
+      ],
+      [
+        "Aggiungi gli ingredienti secchi",
+        "Aggiungi farina d'avena al biscotto, oppure farina e dolcificante, e cioccolato a pezzetti. Mescola bene."
+      ],
+      [
+        "Cuoci",
+        "Versa in uno stampo di silicone e cuoci a 180 °C per 30–35 minuti."
+      ],
+      [
+        "Completa con la salsa",
+        "Mescola gli ingredienti della salsa e versa sulla torta."
+      ]
+    ],
+    "notes": [
+      "Il lievito compare negli ingredienti, ma non è richiamato nel procedimento originale. Il cioccolato è descritto come senza zuccheri negli ingredienti e semidolce nel procedimento."
+    ],
+    "id": "torta-di-carote-al-cioccolato",
+    "minutes": 45,
+    "time": "45 min",
+    "portions": 8,
+    "portionLabel": "8 porzioni",
+    "calories": 112,
+    "protein": 9.0,
+    "carbs": 10.0,
+    "fat": 3.4,
+    "image": "images/159.webp",
+    "video": "https://youtube.com/shorts/D3NHSt3Bvsc?feature=share",
+    "sourcePages": [
+      158,
+      159
+    ],
+    "group": "dessert",
+    "categories": [
+      "spuntini"
+    ],
+    "taste": "dolce",
+    "label": "Dessert",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 161,
+    "title": "Mousse portoghese al caramello",
+    "ingredients": [
+      "5 uova",
+      "3 cucchiai di burro di arachidi in polvere oppure 2 cucchiai di burro di arachidi",
+      "2 cucchiai di dolcificante, xilitolo o altro"
+    ],
+    "steps": [
+      [
+        "Prepara la base",
+        "Separa i tuorli dagli albumi e monta gli albumi a neve ferma."
+      ],
+      [
+        "Prepara il composto",
+        "Mescola tuorli, burro di arachidi in polvere e dolcificante. Incorpora infine gli albumi montati."
+      ],
+      [
+        "Raffredda e servi",
+        "Dividi nelle coppette, metti in frigorifero per 2 ore e servi."
+      ]
+    ],
+    "notes": [
+      "Il riepilogo indica 45 minuti, ma il procedimento richiede 2 ore in frigorifero. La ricetta originale non prevede cottura."
+    ],
+    "id": "mousse-portoghese-al-caramello",
+    "minutes": 45,
+    "time": "45 min",
+    "portions": 4,
+    "portionLabel": "4 porzioni",
+    "calories": 96,
+    "protein": 9.0,
+    "carbs": 2.0,
+    "fat": 5.5,
+    "image": "images/161.webp",
+    "video": "https://youtube.com/shorts/pqit4W6P_pI?feature=share",
+    "sourcePages": [
+      160,
+      161
+    ],
+    "group": "dessert",
+    "categories": [
+      "spuntini"
+    ],
+    "taste": "dolce",
+    "label": "Dessert",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 163,
+    "title": "Panna cotta allo yogurt e frutti rossi",
+    "ingredients": [
+      "200 ml di latte scremato o bevanda vegetale",
+      "340 g di yogurt greco magro",
+      "2 fogli di gelatina",
+      "5 cucchiai d'acqua",
+      "Dolcificante a piacere",
+      "#Guarnizione",
+      "240 g di frutti rossi surgelati",
+      "1 cucchiaio di dolcificante a scelta",
+      "Una foglia di menta"
+    ],
+    "steps": [
+      [
+        "Prepara la gelatina",
+        "Ammolla i fogli in acqua fredda per qualche minuto. Scalda leggermente il latte e aggiungi gelatina ammollata e dolcificante. Mescola finché completamente sciolti."
+      ],
+      [
+        "Prepara la panna cotta",
+        "Unisci il composto allo yogurt e amalgama bene."
+      ],
+      [
+        "Versa e raffredda",
+        "Dividi in 3 coppette o stampini. Lascia in frigorifero almeno 4 ore, finché completamente rassodata."
+      ],
+      [
+        "Completa",
+        "Se vuoi, cuoci a fuoco basso i frutti rossi surgelati con un cucchiaio di dolcificante fino a ottenere una salsa densa. Versala sulla panna cotta. In alternativa servi con i frutti rossi leggermente scongelati e una foglia di menta."
+      ]
+    ],
+    "notes": [
+      "Il riepilogo indica 45 minuti, ma sono richieste almeno 4 ore in frigorifero."
+    ],
+    "id": "panna-cotta-allo-yogurt-e-frutti-rossi",
+    "minutes": 45,
+    "time": "45 min",
+    "portions": 3,
+    "portionLabel": "3 porzioni",
+    "calories": 126,
+    "protein": 13.0,
+    "carbs": 13.7,
+    "fat": 0.7,
+    "image": "images/163.webp",
+    "video": "https://youtube.com/shorts/Om8YWYP_qQ8?feature=share",
+    "sourcePages": [
+      162,
+      163
+    ],
+    "group": "dessert",
+    "categories": [
+      "spuntini"
+    ],
+    "taste": "dolce",
+    "label": "Dessert",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 165,
+    "title": "Salame di cioccolato proteico",
+    "ingredients": [
+      "100 g di fiocchi di latte",
+      "2 uova",
+      "70 g di proteine in polvere al cioccolato oppure latte scremato in polvere",
+      "70 g di cacao magro in polvere",
+      "50 g di biscotti Maria senza zuccheri oppure frutta secca tritata",
+      "Dolcificante non liquido a piacere, se necessario, per esempio xilitolo granulare"
+    ],
+    "steps": [
+      [
+        "Prepara la base",
+        "Frulla fiocchi di latte e uova fino a ottenere una crema liscia."
+      ],
+      [
+        "Aggiungi gli ingredienti secchi",
+        "Versa in una ciotola e aggiungi cacao e proteine in polvere, oppure cacao e dolcificante come indicato nel procedimento. Mescola fino a ottenere un composto omogeneo. Spezzetta finemente i biscotti o la frutta secca e incorpora."
+      ],
+      [
+        "Forma il salame",
+        "Distribuisci su un foglio di carta forno, modella bene e arrotola a forma di salame."
+      ],
+      [
+        "Raffredda e servi",
+        "Metti in frigorifero finché completamente sodo, idealmente per 12–24 ore. Spolverizza con proteine in polvere o dolcificante e servi."
+      ]
+    ],
+    "notes": [
+      "Il libro suggerisce proteine al cioccolato, per esempio gusto Ferrero Rocher.",
+      "I 30 minuti del riepilogo non comprendono le 12–24 ore di riposo. La ricetta originale non prevede cottura.",
+      "Gli ingredienti indicano latte in polvere come alternativa alle proteine; il procedimento cita invece cacao e dolcificante."
+    ],
+    "id": "salame-di-cioccolato-proteico",
+    "minutes": 30,
+    "time": "30 min",
+    "portions": 10,
+    "portionLabel": "10 fette",
+    "calories": 93,
+    "protein": 9.5,
+    "carbs": 8.1,
+    "fat": 3.3,
+    "image": "images/165.webp",
+    "video": "https://www.youtube.com/shorts/YiwYE1D1UNY",
+    "sourcePages": [
+      164,
+      165
+    ],
+    "group": "dessert",
+    "categories": [
+      "spuntini"
+    ],
+    "taste": "dolce",
+    "label": "Dessert",
+    "nutritionBasis": "Per fetta"
+  },
+  {
+    "page": 167,
+    "title": "Tiramisù proteico",
+    "ingredients": [
+      "240 ml di yogurt greco magro, unità riportata nel libro",
+      "120 g di fiocchi di latte",
+      "60 g di formaggio spalmabile light",
+      "1/2 cucchiaino di estratto di vaniglia",
+      "1 misurino di proteine in polvere alla vaniglia oppure 60 g di dolcificante a scelta, come eritritolo o stevia",
+      "Un espresso doppio o caffè forte",
+      "Cacao amaro per spolverizzare",
+      "#Base: scegli un'opzione",
+      "4 fette di pane integrale",
+      "Savoiardi senza zuccheri aggiunti"
+    ],
+    "steps": [
+      [
+        "Prepara la crema",
+        "Lavora i fiocchi di latte fino a renderli cremosi e senza grumi. Unisci yogurt greco, formaggio spalmabile, proteine o dolcificante e vaniglia. Amalgama fino a ottenere una crema liscia."
+      ],
+      [
+        "Bagna la base",
+        "Immergi velocemente nel caffè le fette di pane o i savoiardi, su entrambi i lati, senza inzupparli troppo per evitare che si disfino."
+      ],
+      [
+        "Assembla",
+        "Alterna in una ciotola o pirofila strati di base bagnata nel caffè e crema, terminando con la crema."
+      ],
+      [
+        "Completa",
+        "Spolverizza generosamente con cacao. Lascia in frigorifero circa 2 ore e servi."
+      ]
+    ],
+    "notes": [
+      "I macronutrienti sono calcolati usando pane come base e cambiano scegliendo altri biscotti.",
+      "I 20 minuti del riepilogo non comprendono le circa 2 ore in frigorifero."
+    ],
+    "id": "tiramisu-proteico",
+    "minutes": 20,
+    "time": "20 min",
+    "portions": 4,
+    "portionLabel": "4 porzioni",
+    "calories": 237,
+    "protein": 23.0,
+    "carbs": 19.0,
+    "fat": 7.0,
+    "image": "images/167.webp",
+    "video": "https://youtube.com/shorts/lURf4VNOMro?feature=share",
+    "sourcePages": [
+      166,
+      167
+    ],
+    "group": "dessert",
+    "categories": [
+      "spuntini"
+    ],
+    "taste": "dolce",
+    "label": "Dessert",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 171,
+    "title": "Granola al cioccolato",
+    "ingredients": [
+      "2 tazze di avena (180 g)",
+      "1 tazza di frutta secca (130 g)",
+      "1/2 tazza di semi di zucca (70 g)",
+      "1/4 di tazza di albumi (60 ml)",
+      "2 cucchiai di cacao amaro",
+      "1/3 di tazza di sciroppo d'acero (80 ml) o miele",
+      "Un pizzico di sale"
+    ],
+    "steps": [
+      [
+        "Mescola",
+        "Riunisci tutti gli ingredienti in una ciotola e mescola bene."
+      ],
+      [
+        "Cuoci in friggitrice ad aria",
+        "Cuoci a 160 °C per 12 minuti, mescolando a metà, e poi per altri 5 minuti. Regola il tempo in base alla croccantezza desiderata, facendo attenzione a non bruciare la granola."
+      ]
+    ],
+    "notes": [
+      "Per una versione senza cioccolato, ometti semplicemente il cacao."
+    ],
+    "id": "granola-al-cioccolato",
+    "minutes": 20,
+    "time": "20 min",
+    "portions": 10,
+    "portionLabel": "10 porzioni",
+    "calories": 216,
+    "protein": 7.7,
+    "carbs": 22.4,
+    "fat": 11.1,
+    "image": "images/171.webp",
+    "video": "https://youtu.be/a48c87wIiDs",
+    "sourcePages": [
+      170,
+      171
+    ],
+    "group": "snack",
+    "categories": [
+      "spuntini"
+    ],
+    "taste": "dolce",
+    "label": "Spuntino",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 173,
+    "title": "Biscotti ungheresi leggeri",
+    "ingredients": [
+      "1/2 banana matura, circa 60 g",
+      "1 uovo",
+      "25 g di sciroppo d'acero senza zuccheri o altro dolcificante",
+      "15 g di burro di arachidi oppure olio d'oliva",
+      "50 g di fiocchi d'avena",
+      "20 g di farina di mandorle",
+      "40 g di farina d'avena",
+      "30 g di proteine in polvere al biscotto oppure 30 g di farina d'avena",
+      "Un pizzico di cannella",
+      "1 cucchiaino di lievito",
+      "20 g di cioccolato fondente senza zuccheri, facoltativo"
+    ],
+    "steps": [
+      [
+        "Prepara l'impasto",
+        "Schiaccia la banana in una ciotola e unisci tutti gli ingredienti tranne il cioccolato. Mescola bene fino a ottenere un impasto omogeneo."
+      ],
+      [
+        "Fai riposare",
+        "Copri con pellicola e lascia in frigorifero almeno 30 minuti, così l'avena assorbe i liquidi."
+      ],
+      [
+        "Forma i biscotti",
+        "Stendi l'impasto tra due fogli di carta forno usando un mattarello e ritaglia i biscotti."
+      ],
+      [
+        "Cuoci",
+        "Inforna a 180 °C per 20–25 minuti, finché croccanti e dorati sul fondo."
+      ],
+      [
+        "Decora, se vuoi",
+        "Sciogli il cioccolato fondente e immergi metà di ciascun biscotto. Lascia raffreddare qualche minuto prima di servire."
+      ]
+    ],
+    "notes": [
+      "Il riepilogo indica 45 minuti, ma il riposo e la cottura richiedono da soli almeno 50 minuti."
+    ],
+    "id": "biscotti-ungheresi-leggeri",
+    "minutes": 45,
+    "time": "45 min",
+    "portions": 24,
+    "portionLabel": "24 biscotti",
+    "calories": 37,
+    "protein": 2.4,
+    "carbs": 4.3,
+    "fat": 1.7,
+    "image": "images/173.webp",
+    "video": "https://youtube.com/shorts/al965TyCxps?feature=share",
+    "sourcePages": [
+      172,
+      173
+    ],
+    "group": "snack",
+    "categories": [
+      "spuntini"
+    ],
+    "taste": "dolce",
+    "label": "Spuntino",
+    "nutritionBasis": "Per biscotto"
+  },
+  {
+    "page": 175,
+    "title": "Barrette proteiche al cacao",
+    "ingredients": [
+      "250 g di ceci cotti",
+      "100 g di fiocchi d'avena",
+      "6 datteri Medjool morbidi e denocciolati",
+      "25 g di cacao magro in polvere",
+      "Bevanda di mandorla senza zuccheri o altro latte quanto basta",
+      "Dolcificante a piacere, facoltativo"
+    ],
+    "steps": [
+      [
+        "Prepara l'impasto",
+        "Frulla tutti gli ingredienti, aggiungendo gradualmente la bevanda vegetale fino a ottenere un impasto modellabile."
+      ],
+      [
+        "Forma le barrette",
+        "Trasferisci in una teglia rivestita di carta forno e premi bene."
+      ],
+      [
+        "Raffredda e taglia",
+        "Metti in congelatore per circa 20 minuti, taglia in barrette e servi."
+      ]
+    ],
+    "id": "barrette-proteiche-al-cacao",
+    "minutes": 20,
+    "time": "20 min",
+    "portions": 12,
+    "portionLabel": "12 porzioni",
+    "calories": 113,
+    "protein": 8.5,
+    "carbs": 16.3,
+    "fat": 2.0,
+    "image": "images/175.webp",
+    "video": "https://youtube.com/shorts/waUqy3imMwA?feature=share",
+    "sourcePages": [
+      174,
+      175
+    ],
+    "group": "snack",
+    "categories": [
+      "spuntini"
+    ],
+    "taste": "dolce",
+    "label": "Spuntino",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 177,
+    "title": "Polpettine di carote e formaggio",
+    "ingredients": [
+      "200 g di carote cotte",
+      "250 g di ceci cotti",
+      "30 g di farina d'avena",
+      "30 g di farina di mandorle o altra farina d'avena",
+      "80 g di mozzarella light grattugiata",
+      "Sale, pepe e aglio in polvere",
+      "Prezzemolo o coriandolo tritato"
+    ],
+    "steps": [
+      [
+        "Prepara la base",
+        "Schiaccia bene le carote cotte con una forchetta fino a ottenere un purè liscio."
+      ],
+      [
+        "Aggiungi i ceci",
+        "Unisci i ceci e schiaccia anche questi. Puoi lasciare qualche pezzetto: non serve un composto completamente liscio."
+      ],
+      [
+        "Prepara l'impasto",
+        "Aggiungi le farine, il formaggio e le spezie e amalgama fino a ottenere un composto modellabile."
+      ],
+      [
+        "Forma e cuoci",
+        "Con le mani umide forma 9 palline. Cuoci in friggitrice ad aria a 190 °C per 12 minuti oppure in forno a 200 °C per 15 minuti."
+      ]
+    ],
+    "id": "polpettine-di-carote-e-formaggio",
+    "minutes": 35,
+    "time": "35 min",
+    "portions": 9,
+    "portionLabel": "9 porzioni",
+    "calories": 85,
+    "protein": 5.1,
+    "carbs": 12.2,
+    "fat": 2.5,
+    "image": "images/177.webp",
+    "video": "https://youtube.com/shorts/Pk5y0B23JVo?feature=share",
+    "sourcePages": [
+      176,
+      177
+    ],
+    "group": "snack",
+    "categories": [
+      "spuntini"
+    ],
+    "taste": "salato",
+    "label": "Spuntino",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 179,
+    "title": "Biscotti al cioccolato",
+    "ingredients": [
+      "1 uovo",
+      "1 cucchiaio di yogurt greco magro o yogurt vegetale",
+      "30 g di farina d'avena",
+      "15 g di proteine in polvere al cioccolato oppure 30 g di latte scremato in polvere",
+      "Un pizzico di sale",
+      "1 cucchiaino di lievito",
+      "1 cucchiaio di cacao amaro",
+      "1 cucchiaio da dessert di dolcificante, facoltativo: miele, stevia o sciroppo d'acero",
+      "15 g di gocce di cioccolato fondente"
+    ],
+    "steps": [
+      [
+        "Prepara l'impasto",
+        "Mescola tutti gli ingredienti tranne le gocce di cioccolato fino a ottenere un impasto omogeneo."
+      ],
+      [
+        "Forma i biscotti",
+        "Disponi i biscotti su una teglia rivestita di carta forno e premi qualche goccia di cioccolato sopra ciascuno."
+      ],
+      [
+        "Cuoci",
+        "Inforna in forno ventilato preriscaldato a 180 °C per circa 15 minuti oppure in friggitrice ad aria alla stessa temperatura per 12 minuti."
+      ],
+      [
+        "Regola la consistenza",
+        "Per biscotti più croccanti prolunga la cottura, controllando attentamente per evitare che si secchino."
+      ]
+    ],
+    "id": "biscotti-al-cioccolato",
+    "minutes": 20,
+    "time": "20 min",
+    "portions": 3,
+    "portionLabel": "3 porzioni",
+    "calories": 110,
+    "protein": 8.0,
+    "carbs": 9.0,
+    "fat": 4.0,
+    "image": "images/179.webp",
+    "video": "https://youtube.com/shorts/W0Jg04hNSv8?feature=share",
+    "sourcePages": [
+      178,
+      179
+    ],
+    "group": "snack",
+    "categories": [
+      "spuntini"
+    ],
+    "taste": "dolce",
+    "label": "Spuntino",
+    "nutritionBasis": "Per porzione / unità"
+  },
+  {
+    "page": 181,
+    "title": "Biscotti brownie alla patata dolce",
+    "ingredients": [
+      "1 patata dolce, circa 250 g",
+      "1 uovo",
+      "25 g di cacao magro in polvere",
+      "15 g di proteine in polvere al cioccolato oppure 15 g di farina d'avena e dolcificante a piacere",
+      "Un pizzico di sale grosso",
+      "15 g di gocce di cioccolato fondente"
+    ],
+    "steps": [
+      [
+        "Scalda il forno",
+        "Preriscalda a 180 °C e rivesti una teglia con carta forno."
+      ],
+      [
+        "Cuoci la patata",
+        "Cuoci al microonde per 8–10 minuti, finché molto morbida, oppure lessa in acqua per 10–15 minuti."
+      ],
+      [
+        "Prepara il purè",
+        "Schiaccia bene la patata ancora calda fino a ottenere un purè liscio e senza grumi."
+      ],
+      [
+        "Prepara l'impasto",
+        "Unisci uovo, cacao, proteine e sale. Mescola bene e incorpora le gocce di cioccolato."
+      ],
+      [
+        "Forma i biscotti",
+        "Disponi piccole porzioni sulla teglia e appiattiscile leggermente con un cucchiaio. Aggiungi gocce di cioccolato in superficie."
+      ],
+      [
+        "Cuoci",
+        "Inforna a 180 °C per circa 20–25 minuti."
+      ]
+    ],
+    "id": "biscotti-brownie-alla-patata-dolce",
+    "minutes": 30,
+    "time": "30 min",
+    "portions": 8,
+    "portionLabel": "8 pezzi",
+    "calories": 61,
+    "protein": 3.5,
+    "carbs": 9.0,
+    "fat": 1.6,
+    "image": "images/181.webp",
+    "video": "https://youtube.com/shorts/_IYjhbdii_0?is=VCSuhYaiLxkKhLS6",
+    "sourcePages": [
+      180,
+      181
+    ],
+    "group": "snack",
+    "categories": [
+      "spuntini"
+    ],
+    "taste": "dolce",
+    "label": "Spuntino",
+    "nutritionBasis": "Per pezzo"
+  }
+];
